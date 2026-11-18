@@ -1,0 +1,7617 @@
+WEBVTT
+
+1
+00:00:05.760 --> 00:00:07.100
+Online team, can you hear me?
+
+2
+00:00:14.940 --> 00:00:15.800
+Good morning, guys.
+
+3
+00:00:18.020 --> 00:00:21.290
+How are you? So team, anybody join first time today?
+
+4
+00:00:22.260 --> 00:00:23.920
+Offline team, anyone join first time?
+
+5
+00:00:24.500 --> 00:00:24.660
+You
+
+6
+00:00:25.500 --> 00:00:27.980
+too. Okay. So anybody join first time?
+
+7
+00:00:29.040 --> 00:00:31.500
+Okay, no problem. So
+
+8
+00:00:32.540 --> 00:00:36.240
+yes. So just one second. Can you
+
+9
+00:00:36.480 --> 00:00:37.720
+scan this QR code?
+
+10
+00:00:39.300 --> 00:00:40.710
+The one who joined first time,
+
+11
+00:00:41.640 --> 00:00:43.800
+I would request you to, can you please
+
+12
+00:00:45.320 --> 00:00:48.440
+scan the QR code and let me know once you're done.
+
+13
+00:00:48.500 --> 00:00:50.600
+And who already done, that's fine, guys.
+
+14
+00:00:55.040 --> 00:00:55.640
+Good, Sai.
+
+15
+00:00:57.240 --> 00:01:01.020
+Rajesh, yes, can we discuss the questions later?
+
+16
+00:01:02.900 --> 00:01:03.280
+Okay.
+
+17
+00:01:05.840 --> 00:01:07.620
+Rajesh, unmute you. What's your question?
+
+18
+00:01:07.760 --> 00:01:11.500
+So whoever questions I didn't speak, I will talk to you
+
+19
+00:01:11.580 --> 00:01:11.940
+later.
+
+20
+00:01:15.200 --> 00:01:17.340
+Please continue your- Hello, sir. Please.
+
+21
+00:01:18.780 --> 00:01:20.180
+Good morning, sir. Good morning.
+
+22
+00:01:21.160 --> 00:01:22.180
+Please go ahead. Sir, I have question.
+
+23
+00:01:22.300 --> 00:01:25.860
+Sir, you can cover Python advanced also, this course? Yes, yes.
+
+24
+00:01:26.040 --> 00:01:27.060
+Python advanced also.
+
+25
+00:01:27.900 --> 00:01:31.840
+Okay? Okay, sir. I will give you roadmap today, so everything
+
+26
+00:01:32.000 --> 00:01:32.580
+we'd covered.
+
+27
+00:01:33.480 --> 00:01:35.770
+Okay, sir. Thank you. There is no Python advanced.
+
+28
+00:01:35.880 --> 00:01:39.620
+You cannot build RAG, you cannot build multi-agent, you
+
+29
+00:01:39.700 --> 00:01:42.380
+cannot build MCP, you cannot build LangGraph.
+
+30
+00:01:43.180 --> 00:01:46.240
+So yeah. So in last 10 minutes we'll discuss.
+
+31
+00:01:46.360 --> 00:01:47.940
+I'll cover everything, okay, team?
+
+32
+00:01:48.860 --> 00:01:52.180
+Can you please scan the QR code, everybody done? Online team? Great.
+
+33
+00:01:52.420 --> 00:01:52.899
+That's good.
+
+34
+00:01:53.800 --> 00:01:57.759
+Okay. So let me tell you. Yes, done. Good job.
+
+35
+00:01:58.600 --> 00:02:01.300
+I don't see YZ icon. No problem, Usman.
+
+36
+00:02:01.840 --> 00:02:05.540
+Let me tell you, whoever joined first time, please don't ask
+
+37
+00:02:05.740 --> 00:02:09.640
+questions immediately. Let me finish few of the topic,
+
+38
+00:02:09.900 --> 00:02:13.700
+and it is a new batch, and I will tell you, just started
+
+39
+00:02:13.760 --> 00:02:17.520
+yesterday, and I'll tell you if anybody
+
+40
+00:02:17.600 --> 00:02:21.260
+missed the previous class, okay, so you will
+
+41
+00:02:21.320 --> 00:02:25.200
+receive the recording link. You can find out, and then you can continue
+
+42
+00:02:25.220 --> 00:02:26.340
+this, guys. Clear?
+
+43
+00:02:27.500 --> 00:02:31.280
+Okay. So guys, Mr. Aatif is the batch
+
+44
+00:02:31.380 --> 00:02:34.960
+admin, so I think you see a message from him.
+
+45
+00:02:35.940 --> 00:02:39.420
+Did you see his message right now, "Thank you for attending demo
+
+46
+00:02:40.120 --> 00:02:44.000
+for a full-stack GenAI agentic AI with Python." The name of the
+
+47
+00:02:44.080 --> 00:02:45.040
+course itself,
+
+48
+00:02:45.880 --> 00:02:46.500
+Full-stack
+
+49
+00:02:47.440 --> 00:02:51.140
+GenAI agentic AI with Python. So Python we'll cover
+
+50
+00:02:51.320 --> 00:02:53.520
+from scratch level to advanced level.
+
+51
+00:02:54.180 --> 00:02:57.940
+So you can see the recording. And okay,
+
+52
+00:02:58.260 --> 00:03:02.120
+so yesterday I just discuss quick thing,
+
+53
+00:03:02.260 --> 00:03:05.520
+lot of things I have to cover today, and then
+
+54
+00:03:05.940 --> 00:03:08.580
+I will guide you all those things, guys, okay?
+
+55
+00:03:09.460 --> 00:03:11.690
+So slideshow from
+
+56
+00:03:14.040 --> 00:03:15.540
+beginning. Let's start.
+
+57
+00:03:23.220 --> 00:03:26.760
+Okay, so I covered yesterday these topic.
+
+58
+00:03:26.940 --> 00:03:30.680
+Whoever joined first time, I haven't covered any technical
+
+59
+00:03:30.800 --> 00:03:34.320
+part yet. As you guys are new, I am new,
+
+60
+00:03:34.960 --> 00:03:38.680
+so I'm just introduce few informations to you
+
+61
+00:03:38.720 --> 00:03:42.240
+guys, all right? If I start immediately RAG model,
+
+62
+00:03:42.360 --> 00:03:46.140
+MCP, multi-agent, memory cell, feedback,
+
+63
+00:03:46.400 --> 00:03:49.500
+LSTM, those are very advanced concepts.
+
+64
+00:03:49.640 --> 00:03:51.840
+It's too early to start all these things.
+
+65
+00:03:52.400 --> 00:03:55.840
+So whoever joined first time and second time, welcome again.
+
+66
+00:03:56.400 --> 00:04:00.240
+And this is the name of the course, Full Stack GenAI Agentic AI.
+
+67
+00:04:00.800 --> 00:04:04.540
+And I covered yesterday these topic.
+
+68
+00:04:05.200 --> 00:04:09.100
+A lot of students ask questions. Can non-tech student
+
+69
+00:04:09.160 --> 00:04:11.460
+able to learn these codes? Does career gap?
+
+70
+00:04:12.000 --> 00:04:15.750
+Does working professional switch the career toward data science, GenAI,
+
+71
+00:04:15.750 --> 00:04:18.459
+agentic AI? How much coding is required?
+
+72
+00:04:18.500 --> 00:04:20.969
+Does learner with no math background?
+
+73
+00:04:21.579 --> 00:04:24.660
+So I explained all these things, guys, yesterday. I will share.
+
+74
+00:04:25.220 --> 00:04:29.000
+I'll open the slides so that we all are in same page,
+
+75
+00:04:29.160 --> 00:04:33.050
+okay? Now the next thing is why to choose, I covered yesterday,
+
+76
+00:04:33.140 --> 00:04:37.040
+why to choose GenAI Agentic AI. It is automatizations.
+
+77
+00:04:37.260 --> 00:04:39.620
+You see ChatGPT, Anthropic Claude.
+
+78
+00:04:40.160 --> 00:04:44.120
+Everywhere it is used or not, Llama models, everywhere it is used,
+
+79
+00:04:44.280 --> 00:04:48.060
+so anyone can understand code. In Java you have to
+
+80
+00:04:48.080 --> 00:04:51.320
+write a bunch of codes, but here not much code.
+
+81
+00:04:51.960 --> 00:04:55.880
+And right now the coding is not a big problem because code
+
+82
+00:04:55.960 --> 00:04:59.020
+already written by all these IDs, agentic
+
+83
+00:04:59.220 --> 00:05:02.870
+ID. And the big part is global opportunity.
+
+84
+00:05:02.950 --> 00:05:06.520
+So you can learn here and you apply jobs in the world. Understood?
+
+85
+00:05:07.220 --> 00:05:09.070
+And this is all I covered yesterday.
+
+86
+00:05:09.140 --> 00:05:11.660
+Who are eligible to learn this program?
+
+87
+00:05:11.680 --> 00:05:15.480
+If you are from schools. In schools also, AI
+
+88
+00:05:15.540 --> 00:05:19.060
+introduce. The school kids join this program to
+
+89
+00:05:19.240 --> 00:05:22.940
+learn the advance. The college, engineering,
+
+90
+00:05:23.060 --> 00:05:26.680
+BTech, mechanical, chemical, computer science, civil, all streams.
+
+91
+00:05:27.240 --> 00:05:30.560
+All bachelors, all masters, all teacher, all working
+
+92
+00:05:30.660 --> 00:05:34.180
+professionals, everybody, that is the way the content has
+
+93
+00:05:34.320 --> 00:05:38.120
+designed. Okay, team. The next one is who can
+
+94
+00:05:38.160 --> 00:05:42.060
+learn? Fresher, non-tech, any graduate, post-graduate,
+
+95
+00:05:42.260 --> 00:05:46.100
+career gap, if you have career gap, work professional, teacher,
+
+96
+00:05:46.160 --> 00:05:49.820
+and any engineers, everybody who wants to come to IT
+
+97
+00:05:49.860 --> 00:05:52.120
+industry, yes you can. Got my point.
+
+98
+00:05:52.740 --> 00:05:56.120
+So I just give, this is my introductions. I already explained to you yesterday.
+
+99
+00:05:56.260 --> 00:05:59.780
+Please watch it for one video. That's good enough, my introductions.
+
+100
+00:06:00.360 --> 00:06:02.980
+You can catch me on LinkedIn for all the details.
+
+101
+00:06:03.480 --> 00:06:06.430
+So do you like to send end product developed during the course?
+
+102
+00:06:06.560 --> 00:06:10.200
+Yes, Shiva, we will do it. We'll get confidence the
+
+103
+00:06:10.260 --> 00:06:12.640
+content of the course, what extent, how deep.
+
+104
+00:06:13.340 --> 00:06:17.160
+How deep I am going to teach, how do you
+
+105
+00:06:17.220 --> 00:06:21.000
+know? I will tell you how deep I am
+
+106
+00:06:21.040 --> 00:06:21.880
+teaching you.
+
+107
+00:06:22.820 --> 00:06:25.020
+So if you go to--
+
+108
+00:06:26.800 --> 00:06:29.800
+Definitely you ask a questions, there is no doubt.
+
+109
+00:06:30.530 --> 00:06:33.260
+So I can have all the playlist.
+
+110
+00:06:34.560 --> 00:06:35.510
+If you go to
+
+111
+00:06:38.700 --> 00:06:42.660
+my YouTube section, you can find me how deep
+
+112
+00:06:42.720 --> 00:06:43.420
+I'm covering.
+
+113
+00:06:44.360 --> 00:06:46.400
+Got my point? Who's this guy?
+
+114
+00:06:47.440 --> 00:06:49.220
+I think experience right, Shiva?
+
+115
+00:06:50.100 --> 00:06:53.680
+How deep I cover, you go and check these
+
+116
+00:06:53.700 --> 00:06:57.660
+alarms, advanced agentic AI, Claude AI, Qimi
+
+117
+00:06:57.760 --> 00:07:01.640
+Model, OpenClaude, Gemini, MCP, Anti-Gravity,
+
+118
+00:07:01.780 --> 00:07:04.910
+NanoBanana, and N8N agent,
+
+119
+00:07:06.100 --> 00:07:10.020
+how to build LangGraph, A2A protocol, how deep
+
+120
+00:07:10.120 --> 00:07:13.800
+I'm covering. Yeah. So you have none AI experience, so
+
+121
+00:07:13.860 --> 00:07:16.740
+even though don't go deep, then it's a problem for you.
+
+122
+00:07:17.200 --> 00:07:21.140
+You need a right mentor, and I know I'm the best for you
+
+123
+00:07:21.220 --> 00:07:22.440
+guys. Got my point?
+
+124
+00:07:23.400 --> 00:07:26.660
+So Shiva, are you clear? Don't worry about that. You can watch it.
+
+125
+00:07:28.040 --> 00:07:31.040
+Okay, Shiva, let's get back to the class.
+
+126
+00:07:31.180 --> 00:07:32.220
+Everyone is clear?
+
+127
+00:07:33.040 --> 00:07:36.980
+Everybody's clear, online team? So I
+
+128
+00:07:37.020 --> 00:07:39.390
+am explain hypercar. Should you use full stack?
+
+129
+00:07:39.840 --> 00:07:40.420
+Why you
+
+130
+00:07:41.320 --> 00:07:45.200
+use full stack gen AI? Rajiv, because we are use full stack
+
+131
+00:07:45.260 --> 00:07:48.120
+gen AI, we need to create front-end and back-end, right?
+
+132
+00:07:48.340 --> 00:07:51.960
+What is full stack? The full stack, meaning
+
+133
+00:07:55.440 --> 00:07:58.960
+you create a back-end, and also you create a
+
+134
+00:07:59.080 --> 00:08:02.960
+front-end. It's a end-to-end. That is called it's full stack.
+
+135
+00:08:03.800 --> 00:08:07.500
+Clear now, Rajiv? Got it? Yeah. So gen AI agentic
+
+136
+00:08:07.520 --> 00:08:11.160
+AI, some of the team, they won't explain the front-end, they won't explain
+
+137
+00:08:11.220 --> 00:08:13.550
+deployment. So I'll covered
+
+138
+00:08:14.380 --> 00:08:16.760
+front-end, back-end deployment part.
+
+139
+00:08:16.840 --> 00:08:20.540
+That's why it is a universal job role, full stack
+
+140
+00:08:20.620 --> 00:08:23.560
+developer, full stack Java developer, all those things. Okay?
+
+141
+00:08:24.100 --> 00:08:27.330
+So if you don't mind, can I take your questions at last, guys?
+
+142
+00:08:27.860 --> 00:08:31.020
+If you don't mind, can I take your questions at last? Okay.
+
+143
+00:08:31.760 --> 00:08:35.740
+So this is all about it. And then we can
+
+144
+00:08:35.800 --> 00:08:39.600
+go to this one. I already explained to you
+
+145
+00:08:39.701 --> 00:08:43.260
+that about my introductions from current slide.
+
+146
+00:08:43.500 --> 00:08:44.440
+Just one second.
+
+147
+00:08:45.300 --> 00:08:48.600
+Okay, just watch few slides I made it, then we discuss.
+
+148
+00:08:49.260 --> 00:08:52.280
+No problem. So I'm happy to answer your queries.
+
+149
+00:08:52.900 --> 00:08:55.710
+So I have 18 experience. I'm working BCBS.
+
+150
+00:08:55.820 --> 00:08:58.840
+I have start up my own company. 15 years plus teaching,
+
+151
+00:08:59.480 --> 00:09:03.360
+50,000 train. In this demo, you get all the ideas,
+
+152
+00:09:03.480 --> 00:09:07.400
+guys. Get my point? Okay. And top ranking
+
+153
+00:09:07.620 --> 00:09:10.790
+from Google reviews I am. You can get it from ChatGPT.
+
+154
+00:09:10.860 --> 00:09:13.540
+You can go to my LinkedIn, and you find out.
+
+155
+00:09:13.980 --> 00:09:17.900
+What are the main module covered? The student who join, I'm just repeating quickly.
+
+156
+00:09:17.940 --> 00:09:21.660
+This is all those things covered. Agentic AI, MCP, gen AI,
+
+157
+00:09:21.780 --> 00:09:25.420
+prompt engineer, LLM, artificial intelligence, deep
+
+158
+00:09:25.540 --> 00:09:29.500
+learning, natural language processing, machine learning, data science.
+
+159
+00:09:30.160 --> 00:09:33.880
+Okay. And MLOps, data analytics, Python
+
+160
+00:09:33.960 --> 00:09:37.760
+statistics, LLM model deployment, math, linear
+
+161
+00:09:37.820 --> 00:09:40.140
+algebra, course completion certificates.
+
+162
+00:09:40.660 --> 00:09:43.940
+I'll give all the resume projects, and then we discuss.
+
+163
+00:09:44.680 --> 00:09:48.560
+And whoever raise your hands, I will answer your query
+
+164
+00:09:48.600 --> 00:09:51.780
+at the last. Okay, Vamshi Krishna and Madhu?
+
+165
+00:09:51.920 --> 00:09:55.160
+Whoever raise your hands, I will answer to the last because
+
+166
+00:09:55.900 --> 00:09:59.560
+if-- Okay, so no problem. You can keep raise your hands.
+
+167
+00:09:59.620 --> 00:10:01.480
+We'll discuss at the last of the class.
+
+168
+00:10:02.180 --> 00:10:04.260
+Or you want me to discuss now, online team?
+
+169
+00:10:05.300 --> 00:10:07.780
+Or better we discuss at last, guys? Right.
+
+170
+00:10:08.460 --> 00:10:11.960
+So now I wanted to talk about another thing
+
+171
+00:10:13.140 --> 00:10:15.660
+at last, guys. When the remote class.
+
+172
+00:10:16.180 --> 00:10:20.020
+Rajiv, just wait, man. I will
+
+173
+00:10:20.099 --> 00:10:23.020
+finish today the demo and continue from tomorrow.
+
+174
+00:10:23.360 --> 00:10:27.080
+Okay? Every day demo it not make sense, so that's what we'll
+
+175
+00:10:27.160 --> 00:10:29.980
+start being coding all those things, Python installations,
+
+176
+00:10:30.520 --> 00:10:33.580
+applications. Yes, tomorrow onwards we'll start the program.
+
+177
+00:10:34.020 --> 00:10:36.940
+Just please stay and listen, and then we covered it.
+
+178
+00:10:37.240 --> 00:10:41.100
+Got my point, Rajiv? Please write down all of your questions and
+
+179
+00:10:41.140 --> 00:10:44.720
+I'll talk to you after the class. Okay? Everyone.
+
+180
+00:10:45.320 --> 00:10:49.180
+So this is all those things we covered, and I already
+
+181
+00:10:49.220 --> 00:10:52.930
+covered this. What laptop you want to buy, what is configured,
+
+182
+00:10:53.220 --> 00:10:57.120
+8GB, 512 SSD, OS. This is common config you
+
+183
+00:10:57.160 --> 00:11:01.000
+want, guys. And then who can learn, what prerequisite
+
+184
+00:11:01.440 --> 00:11:05.180
+to learn this program. Minimum laptop is required, attend
+
+185
+00:11:05.240 --> 00:11:08.710
+regular classes, consistencies, and regular practice.
+
+186
+00:11:09.380 --> 00:11:11.500
+Revise the previous topic. Clear?
+
+187
+00:11:11.680 --> 00:11:14.040
+So this is the prerequisite you want it.
+
+188
+00:11:14.680 --> 00:11:15.190
+And then
+
+189
+00:11:16.980 --> 00:11:20.840
+every day you have to practice the task which I assign, and
+
+190
+00:11:21.280 --> 00:11:24.700
+then you will get to know. So also, I wanted to
+
+191
+00:11:24.780 --> 00:11:27.520
+introduce another thing. So,
+
+192
+00:11:28.940 --> 00:11:32.770
+just one second. Workflows. For working professionals,
+
+193
+00:11:32.880 --> 00:11:36.260
+for freshers, for expertise, the
+
+194
+00:11:36.320 --> 00:11:39.960
+workflows will plays very important role. What is workflows?
+
+195
+00:11:40.660 --> 00:11:44.580
+When I start teaching you machine
+
+196
+00:11:44.640 --> 00:11:48.300
+learning after Python and EDA and
+
+197
+00:11:48.880 --> 00:11:52.620
+metal flow-- I mean pipeline, this machine learning
+
+198
+00:11:52.660 --> 00:11:55.820
+workflows is very important. Every companies build these workflows.
+
+199
+00:11:55.920 --> 00:11:59.260
+What is workflows? When you construct a house, there is a planning.
+
+200
+00:11:59.660 --> 00:12:03.440
+What is a planning? First foundation stays, then slab stays,
+
+201
+00:12:03.800 --> 00:12:07.480
+then first floor, then second floor. These are the workflows or not?
+
+202
+00:12:08.488 --> 00:12:11.808
+Exactly. So how to build machine learning workflows?
+
+203
+00:12:12.868 --> 00:12:16.488
+First, you must need data. Okay, then data cleaning,
+
+204
+00:12:17.228 --> 00:12:20.488
+then feature engineering, then training the model,
+
+205
+00:12:21.108 --> 00:12:24.028
+then evaluation the model, and deployment.
+
+206
+00:12:24.418 --> 00:12:28.308
+This is end-to-end ML workflows. If when you apply
+
+207
+00:12:28.318 --> 00:12:31.688
+jobs, the companies are asking, "Can you explain the
+
+208
+00:12:31.748 --> 00:12:33.968
+workflows?" So project workflows.
+
+209
+00:12:34.008 --> 00:12:37.628
+So this is your workflows you need to explain them. Understood?
+
+210
+00:12:38.128 --> 00:12:41.728
+So when I talk about deep learning, so deep learning architecture.
+
+211
+00:12:42.288 --> 00:12:45.868
+Architecture in deep learning when we build input
+
+212
+00:12:45.968 --> 00:12:48.388
+layer, hidden layer, output layer.
+
+213
+00:12:48.508 --> 00:12:50.368
+So this is neural network architecture.
+
+214
+00:12:51.017 --> 00:12:53.298
+And second one, CNN architecture,
+
+215
+00:12:54.328 --> 00:12:58.228
+conv layer, convolution layer, max pooling, flatten,
+
+216
+00:12:58.708 --> 00:13:01.008
+fully connected dense layer. Understood, guys?
+
+217
+00:13:01.468 --> 00:13:04.528
+Dense means fully connected layer. This is CNN architecture.
+
+218
+00:13:05.148 --> 00:13:07.268
+Online team, are you listening me?
+
+219
+00:13:07.348 --> 00:13:09.448
+Let me tell you, this is
+
+220
+00:13:10.248 --> 00:13:13.767
+all in-depth class. So in the world,
+
+221
+00:13:14.048 --> 00:13:17.568
+first ML started, then AI
+
+222
+00:13:17.588 --> 00:13:21.388
+started, then GenAI started. Now
+
+223
+00:13:21.528 --> 00:13:25.268
+agentic AI starting. The next one is quantum
+
+224
+00:13:25.328 --> 00:13:28.468
+AI. Are you clear? This is the protocol.
+
+225
+00:13:31.548 --> 00:13:35.388
+So if anybody learn, if you want to
+
+226
+00:13:35.448 --> 00:13:37.708
+know in depth. Are you guys understood?
+
+227
+00:13:38.408 --> 00:13:41.888
+If you want to know in depth first, AI, ML is
+
+228
+00:13:41.948 --> 00:13:45.378
+foundation stage, then GenAI, agentic AI would
+
+229
+00:13:45.588 --> 00:13:48.648
+better. That's what I follow this planning.
+
+230
+00:13:49.488 --> 00:13:52.858
+Team, are you clear? So without no data cleaning,
+
+231
+00:13:53.888 --> 00:13:57.768
+okay, without dozen no data cleaning, how many types
+
+232
+00:13:57.848 --> 00:14:01.768
+of data in the world we have, guys? How many types of data
+
+233
+00:14:01.868 --> 00:14:05.468
+we have in the world? Data is divided into two part.
+
+234
+00:14:05.688 --> 00:14:08.688
+One is structured data, one is
+
+235
+00:14:09.128 --> 00:14:11.508
+unstructured data. Are you guys understood?
+
+236
+00:14:12.108 --> 00:14:15.488
+Structured data, also we call supervised learning
+
+237
+00:14:16.108 --> 00:14:18.768
+or labeled data. Understood, guys?
+
+238
+00:14:19.408 --> 00:14:22.368
+And next one, unstructured data,
+
+239
+00:14:23.088 --> 00:14:26.588
+unsupervised learning, and this is called
+
+240
+00:14:27.108 --> 00:14:31.068
+unlabeled data, guys. Okay? And
+
+241
+00:14:31.148 --> 00:14:33.368
+another one, reinforcement learning.
+
+242
+00:14:34.008 --> 00:14:37.928
+So we have reinforcement learning. What is reinforcement learning?
+
+243
+00:14:38.228 --> 00:14:40.848
+The model trained from
+
+244
+00:14:41.508 --> 00:14:44.248
+environment. What exactly mean by
+
+245
+00:14:44.288 --> 00:14:48.168
+environment? I mean to say, you open a Google Map and the
+
+246
+00:14:48.228 --> 00:14:51.348
+heavy traffic, automatically the map showing red or not.
+
+247
+00:14:52.068 --> 00:14:55.338
+So immediately, so that means the model is
+
+248
+00:14:55.508 --> 00:14:59.268
+trained automatically from environment.
+
+249
+00:14:59.438 --> 00:15:03.068
+This is all we called as data. So this
+
+250
+00:15:03.228 --> 00:15:06.388
+structured data handles which DB?
+
+251
+00:15:07.268 --> 00:15:09.788
+Structured DB or not. What is database?
+
+252
+00:15:10.368 --> 00:15:13.448
+Database is a container which store the data.
+
+253
+00:15:13.948 --> 00:15:16.788
+So structured data handle which DB?
+
+254
+00:15:17.478 --> 00:15:21.448
+Structured DB. Unstructured data contain which DB?
+
+255
+00:15:22.048 --> 00:15:24.548
+Unstructured DB. What is unstructured DB?
+
+256
+00:15:25.028 --> 00:15:27.728
+We have NoSQL DB. Are you guys understood?
+
+257
+00:15:28.168 --> 00:15:32.028
+We have NoSQL DB. We have SQL DB. So we have
+
+258
+00:15:32.048 --> 00:15:35.748
+all of them. So when I get deep into all those
+
+259
+00:15:35.848 --> 00:15:38.148
+things, then things would be understand.
+
+260
+00:15:38.608 --> 00:15:42.028
+So this is CNN architecture. And then
+
+261
+00:15:42.168 --> 00:15:46.008
+LSTM flow. What is LSTM? Long
+
+262
+00:15:46.288 --> 00:15:49.768
+short-term memory. So what is meant by
+
+263
+00:15:49.908 --> 00:15:52.848
+LSTM, guys? LSTM means long
+
+264
+00:15:53.328 --> 00:15:57.048
+short-term memory. What exactly
+
+265
+00:15:57.208 --> 00:16:01.048
+if I open the ChatGPT? So when I
+
+266
+00:16:01.068 --> 00:16:04.558
+write any question, when I write more,
+
+267
+00:16:04.928 --> 00:16:08.688
+just one second. If I go to new chat, did
+
+268
+00:16:08.808 --> 00:16:12.588
+you see my previous information
+
+269
+00:16:12.668 --> 00:16:14.208
+has listed here or not?
+
+270
+00:16:15.428 --> 00:16:16.148
+Team, please answer.
+
+271
+00:20:20.138 --> 00:20:20.378
+Okay.
+
+272
+00:20:21.738 --> 00:20:23.898
+Okay, guys, can you hear me? Sorry.
+
+273
+00:20:23.958 --> 00:20:27.458
+All right. The system got
+
+274
+00:20:27.518 --> 00:20:28.378
+updated, guys.
+
+275
+00:20:29.758 --> 00:20:31.138
+Okay. Are you seeing my screen, team?
+
+276
+00:20:32.498 --> 00:20:33.218
+One moment.
+
+277
+00:20:35.318 --> 00:20:35.828
+Perfect.
+
+278
+00:20:36.978 --> 00:20:38.918
+Okay, great. So where did I stop?
+
+279
+00:20:39.798 --> 00:20:43.468
+I stopped about LSTM, right? Where did I
+
+280
+00:20:43.558 --> 00:20:47.218
+stop? I just explained about LSTM, long short-term
+
+281
+00:20:47.278 --> 00:20:50.558
+memory. So whenever you use anything in the
+
+282
+00:20:50.618 --> 00:20:51.438
+chatbot,
+
+283
+00:20:52.338 --> 00:20:54.098
+where exactly it store?
+
+284
+00:20:55.398 --> 00:20:58.758
+You have a memory, I have a memory, everybody has a memory or not.
+
+285
+00:20:59.458 --> 00:21:02.978
+So exactly, so when you install a chatbot,
+
+286
+00:21:03.638 --> 00:21:07.398
+chatbot has a memory, and this has
+
+287
+00:21:07.558 --> 00:21:11.038
+long-term memory and
+
+288
+00:21:11.278 --> 00:21:15.228
+short-term memory. What is short-term memory does?
+
+289
+00:21:15.678 --> 00:21:19.218
+It store recent information. That is called
+
+290
+00:21:19.258 --> 00:21:22.638
+short-term memory. Long-term memory, it store
+
+291
+00:21:23.178 --> 00:21:26.378
+the old information as well. You guys got my point?
+
+292
+00:21:27.018 --> 00:21:30.918
+Okay. So this is short-term memory and long-term memory.
+
+293
+00:21:30.978 --> 00:21:34.348
+Are you clear, guys? So when I build this
+
+294
+00:21:34.538 --> 00:21:38.258
+chatbot practically using Visual Studio Code,
+
+295
+00:21:38.838 --> 00:21:42.738
+how did you load memory? Using help of the framework called
+
+296
+00:21:42.778 --> 00:21:46.558
+LangChain, using help of the framework called LangChain.
+
+297
+00:21:46.958 --> 00:21:50.598
+So we have lot of frameworks I will guided you throughout the
+
+298
+00:21:50.678 --> 00:21:54.378
+journey. This is the super program, and we'll build on
+
+299
+00:21:54.418 --> 00:21:58.208
+Codex app. The Codex has launched a new desktop, Claude
+
+300
+00:21:58.278 --> 00:22:02.198
+desktop, Codex desktop. The new, new things has launched by
+
+301
+00:22:02.358 --> 00:22:06.338
+GPT and Claude. I will explain all advanced program as well,
+
+302
+00:22:06.438 --> 00:22:09.378
+guys. Understood now? So team, are you clear?
+
+303
+00:22:09.878 --> 00:22:13.818
+So where we talk about this workflows, let me finish this workflow.
+
+304
+00:22:14.518 --> 00:22:18.358
+And this is ML workflows. This is deep learning architecture.
+
+305
+00:22:19.018 --> 00:22:22.898
+Okay, in deep learning architecture, this is what interview asks,
+
+306
+00:22:22.998 --> 00:22:26.238
+guys. All right. How do you build CNN architecture?
+
+307
+00:22:26.338 --> 00:22:29.618
+How did you build LSTM, recurrent neural network?
+
+308
+00:22:30.378 --> 00:22:33.978
+And then we have transformers. What is transformers
+
+309
+00:22:34.038 --> 00:22:36.158
+architecture? What is input embedding?
+
+310
+00:22:36.198 --> 00:22:39.358
+What is multi-head attention? What is feed forward?
+
+311
+00:22:39.478 --> 00:22:43.178
+What is output projections? All these things, and
+
+312
+00:22:43.238 --> 00:22:46.978
+then self-attention. What is self-attention mechanism?
+
+313
+00:22:47.878 --> 00:22:51.858
+Self-attention mechanism means, for a layman terms,
+
+314
+00:22:52.638 --> 00:22:56.358
+self-attention means one
+
+315
+00:22:56.518 --> 00:22:59.738
+word, many meaning, guys. Understood?
+
+316
+00:22:59.818 --> 00:23:03.778
+One word, many meaning. For example, I will ask
+
+317
+00:23:03.818 --> 00:23:05.598
+to ChatGPT Apple.
+
+318
+00:23:07.038 --> 00:23:10.898
+I ask to ChatGPT Apple. Online team, can you answer
+
+319
+00:23:10.998 --> 00:23:14.338
+me, when I ask question ChatGPT to Apple,
+
+320
+00:23:14.978 --> 00:23:16.818
+don't you think model will confuse?
+
+321
+00:23:18.398 --> 00:23:20.878
+ChatGPT will confuse or not? Why, guys?
+
+322
+00:23:21.498 --> 00:23:23.658
+Online team, why ChatGPT will confuse?
+
+323
+00:23:23.738 --> 00:23:27.298
+Because Apple is a fruit, Apple is a
+
+324
+00:23:27.338 --> 00:23:31.038
+company, Apple is iPhone, Apple is laptop,
+
+325
+00:23:31.398 --> 00:23:34.318
+Apple is person name. Guys got my point?
+
+326
+00:23:34.938 --> 00:23:38.618
+Exactly. So here, that's why
+
+327
+00:23:38.938 --> 00:23:41.078
+LLM model hallucinate.
+
+328
+00:23:42.028 --> 00:23:43.398
+What is meant by hallucination?
+
+329
+00:23:44.278 --> 00:23:48.138
+LLM model hallucination means LLM model
+
+330
+00:23:48.918 --> 00:23:51.518
+hallucination. What is meant by hallucinate?
+
+331
+00:23:52.258 --> 00:23:54.058
+LLM model confused.
+
+332
+00:23:55.278 --> 00:23:58.938
+LLM model what, guys? Confused. So this is what
+
+333
+00:23:58.998 --> 00:24:01.118
+interview questions. Why it confuse?
+
+334
+00:24:01.798 --> 00:24:05.198
+Because you need to need a better prompt, and based
+
+335
+00:24:05.278 --> 00:24:08.858
+on RAG will comes into the picture or context
+
+336
+00:24:08.938 --> 00:24:10.738
+engineering will comes into the picture.
+
+337
+00:24:11.248 --> 00:24:15.098
+Context engineering will comes into the picture. Are you guys clear?
+
+338
+00:24:15.918 --> 00:24:17.538
+Online team, everyone understood.
+
+339
+00:24:17.578 --> 00:24:19.858
+So I give you a small explanation
+
+340
+00:24:20.698 --> 00:24:21.018
+Yes.
+
+341
+00:24:21.938 --> 00:24:24.618
+So team, this is a very nice subject.
+
+342
+00:24:25.198 --> 00:24:29.138
+So you have to know what is query, key, Q,
+
+343
+00:24:29.338 --> 00:24:32.718
+what is K, what is values. Do you remember
+
+344
+00:24:32.778 --> 00:24:36.038
+yesterday I was explaining cloud code architecture?
+
+345
+00:24:36.558 --> 00:24:39.758
+In cloud code architecture, you heard Q, K,
+
+346
+00:24:39.978 --> 00:24:41.458
+V. Anyone remember?
+
+347
+00:24:42.618 --> 00:24:44.858
+Online team, anyone remember yesterday
+
+348
+00:24:47.198 --> 00:24:50.678
+class? Yes. So yes, this is Q,
+
+349
+00:24:50.978 --> 00:24:54.278
+K, V. What is Q? Queries, keys,
+
+350
+00:24:54.698 --> 00:24:58.418
+values. So this is all advanced topic,
+
+351
+00:24:58.538 --> 00:25:02.378
+boss. I designed the program such a
+
+352
+00:25:02.438 --> 00:25:02.598
+way,
+
+353
+00:25:03.518 --> 00:25:06.778
+you understand from scratch to expert level.
+
+354
+00:25:07.378 --> 00:25:11.038
+Now, the next thing is LoRA fine-tune. What is fine-tune?
+
+355
+00:25:11.678 --> 00:25:15.658
+LLM model, LoRA, ChatGPT. So this is
+
+356
+00:25:15.698 --> 00:25:18.438
+a fine-tuning technique. I will tell you later.
+
+357
+00:25:18.978 --> 00:25:22.798
+And the next one, how to build agentic
+
+358
+00:25:22.858 --> 00:25:26.698
+AI workflow. To build agentic AI workflow, you need to
+
+359
+00:25:26.758 --> 00:25:30.498
+assign a goal, reasoning, tool calling, action
+
+360
+00:25:30.578 --> 00:25:33.938
+executions result. So this is called agentic AI
+
+361
+00:25:34.038 --> 00:25:37.758
+workflows. How to build these workflows, and then
+
+362
+00:25:37.818 --> 00:25:41.358
+react agent, reason plus act. So in
+
+363
+00:25:41.458 --> 00:25:44.138
+LLM interview questions, reason plus act.
+
+364
+00:25:44.978 --> 00:25:47.818
+So if I ask anything, you guys are thinking or not?
+
+365
+00:25:48.558 --> 00:25:50.198
+You have thoughts, I have thoughts.
+
+366
+00:25:50.678 --> 00:25:54.558
+So LLM agent also has a thought. Agent can
+
+367
+00:25:54.678 --> 00:25:57.758
+take action. Agent can observations.
+
+368
+00:25:58.038 --> 00:26:01.718
+Agent can do the next step. This is all about react
+
+369
+00:26:01.798 --> 00:26:05.608
+agent. So all these things I'll explain in practical when I
+
+370
+00:26:05.678 --> 00:26:08.248
+start agentic AI topics, guys.
+
+371
+00:26:09.058 --> 00:26:11.278
+And the next part, multi-agent system.
+
+372
+00:26:11.728 --> 00:26:15.598
+Single agent, multi-agent. So these workflows you have to
+
+373
+00:26:15.658 --> 00:26:19.418
+mention in your resumes. So I just give you overview
+
+374
+00:26:19.518 --> 00:26:23.398
+of things, guys. Trust me, just blindly believe me,
+
+375
+00:26:23.558 --> 00:26:27.398
+because this is very advanced courses, and I need your
+
+376
+00:26:27.458 --> 00:26:29.318
+dedication to complete this, guys.
+
+377
+00:26:30.177 --> 00:26:34.158
+Every day I'll speak, every day I will on time, every every day I will give
+
+378
+00:26:34.218 --> 00:26:37.778
+more work and more. I'm telling you guys,
+
+379
+00:26:37.918 --> 00:26:41.858
+trust me, in four to five months, I will make
+
+380
+00:26:41.918 --> 00:26:43.998
+you five-year experience candidate.
+
+381
+00:26:45.058 --> 00:26:48.878
+You trust me blindly, I'm saying. Are you guys clear
+
+382
+00:26:48.978 --> 00:26:52.738
+what I'm saying? In four to five months, I'll make you five
+
+383
+00:26:52.798 --> 00:26:54.578
+years. How come that I know it?
+
+384
+00:26:55.438 --> 00:26:57.998
+Because few things you can't judge me.
+
+385
+00:26:58.978 --> 00:27:01.518
+So you can see me, that's what.
+
+386
+00:27:02.418 --> 00:27:04.078
+I have a lot of experience, guys.
+
+387
+00:27:05.458 --> 00:27:08.938
+I know how to train a brain. Got my point.
+
+388
+00:27:09.458 --> 00:27:11.418
+So this is all workflows. Okay, team?
+
+389
+00:27:12.058 --> 00:27:15.298
+So next, talk about-- I think I just stopped somewhere.
+
+390
+00:27:15.498 --> 00:27:19.358
+Let me discuss this part and save
+
+391
+00:27:19.498 --> 00:27:21.598
+slideshow from current slides.
+
+392
+00:27:24.858 --> 00:27:25.178
+Okay,
+
+393
+00:27:25.998 --> 00:27:29.878
+one second. This is what continue now.
+
+394
+00:27:30.578 --> 00:27:30.918
+Great.
+
+395
+00:27:34.778 --> 00:27:37.818
+So let's-- No, it's all experience, Nagi.
+
+396
+00:27:38.678 --> 00:27:42.538
+So here we covered this one, who are eligible to learn
+
+397
+00:27:42.548 --> 00:27:46.338
+this program, and what is my introductions, my students
+
+398
+00:27:46.418 --> 00:27:49.318
+reviews, what are the main module, what laptop.
+
+399
+00:27:50.058 --> 00:27:53.538
+Okay, what is prerequisite. Okay? This is also covered.
+
+400
+00:27:54.218 --> 00:27:57.678
+Now, let me tell you, if you planning to
+
+401
+00:27:57.978 --> 00:28:01.768
+join any of this one, data analytics, full stack,
+
+402
+00:28:01.998 --> 00:28:05.738
+FSD, as with ML. Do you remember I give you a knowledge graph or not?
+
+403
+00:28:06.638 --> 00:28:09.837
+Do you remember I give you a knowledge tree? Yes or no, team?
+
+404
+00:28:10.938 --> 00:28:13.698
+Do you remember I gave you the knowledge tree?
+
+405
+00:28:13.778 --> 00:28:15.738
+What is knowledge graph or knowledge tree?
+
+406
+00:28:16.378 --> 00:28:20.018
+So let me tell you one more thing, just one more time,
+
+407
+00:28:20.138 --> 00:28:23.538
+because just see, no need to hurry, guys.
+
+408
+00:28:23.878 --> 00:28:27.258
+It's learning codes depends on me. You don't worry about that.
+
+409
+00:28:28.238 --> 00:28:31.998
+I can also done a lot of YouTube videos. I'm also a podcasters.
+
+410
+00:28:32.098 --> 00:28:34.898
+I also take interviews. I also deals with this.
+
+411
+00:28:35.098 --> 00:28:38.497
+YouTube project completed, not get a job, guys.
+
+412
+00:28:38.598 --> 00:28:41.328
+So the connection is important. I tell you one thing.
+
+413
+00:28:41.877 --> 00:28:45.778
+So assume you plant a seed. What is plant
+
+414
+00:28:45.818 --> 00:28:49.778
+a seed? You start learning this batch. Okay.
+
+415
+00:28:49.818 --> 00:28:53.598
+When you plant a seed, day by day, you're learning something, then
+
+416
+00:28:53.698 --> 00:28:56.798
+slowly the roots will build or not. What is root?
+
+417
+00:28:57.498 --> 00:29:00.818
+Python, I will start. EDA, I will start.
+
+418
+00:29:01.418 --> 00:29:04.078
+Stats, I will start. Understood, guys?
+
+419
+00:29:04.458 --> 00:29:08.078
+And then you have NumPy, array, then you know
+
+420
+00:29:08.378 --> 00:29:11.958
+Pandas, data frame. All right. And then
+
+421
+00:29:12.138 --> 00:29:15.198
+linear algebra. When you start, what happen?
+
+422
+00:29:15.418 --> 00:29:16.558
+This is a root.
+
+423
+00:29:17.398 --> 00:29:20.818
+Without root, tree cannot build, right?
+
+424
+00:29:21.358 --> 00:29:24.778
+So tree. In a tree, the first section is
+
+425
+00:29:25.198 --> 00:29:26.278
+machine learning section.
+
+426
+00:29:27.258 --> 00:29:30.698
+We'll complete this sections, guys. After complete this, we complete ML.
+
+427
+00:29:31.338 --> 00:29:34.118
+After complete, what is another section? AI section.
+
+428
+00:29:34.838 --> 00:29:36.858
+This tree has these two are branch.
+
+429
+00:29:37.078 --> 00:29:39.918
+One is ML branch, second is AI branch.
+
+430
+00:29:40.538 --> 00:29:43.718
+In AI branch, you have different section, deep learning,
+
+431
+00:29:44.258 --> 00:29:47.438
+neural network. In neural network, you have three
+
+432
+00:29:47.558 --> 00:29:51.518
+branches, ANN, CNN, RNN. Pretty
+
+433
+00:29:51.578 --> 00:29:55.098
+clear? After that, we will start GenAI.
+
+434
+00:29:56.098 --> 00:29:59.118
+After that, we start GenAI. After that, we start
+
+435
+00:29:59.678 --> 00:30:03.518
+agentic AI. After that, we start Quantum AI.
+
+436
+00:30:03.558 --> 00:30:07.318
+Are you clear? And then the fruit. Fruit is nothing
+
+437
+00:30:07.418 --> 00:30:10.908
+but success, guys. And you can apply jobs, and
+
+438
+00:30:11.458 --> 00:30:14.958
+I'll stand you to the world where the new job market.
+
+439
+00:30:15.638 --> 00:30:15.958
+Okay.
+
+440
+00:30:16.958 --> 00:30:20.698
+No, that's okay. So that is why I am-- See.
+
+441
+00:30:21.318 --> 00:30:24.098
+Can you please see this now? I already explained.
+
+442
+00:30:24.638 --> 00:30:26.798
+Now it is clear? Who's this guy?
+
+443
+00:30:27.618 --> 00:30:29.458
+Narayana, are you clear now?
+
+444
+00:30:30.508 --> 00:30:33.348
+Did you see this now? I am just hand drawing.
+
+445
+00:30:33.448 --> 00:30:37.388
+So what is knowledge graph? This is all the root, Python,
+
+446
+00:30:37.468 --> 00:30:40.488
+math, algebra, stats, metrics, database.
+
+447
+00:30:41.188 --> 00:30:45.008
+And this is all the subjects, ML, data science, ML,
+
+448
+00:30:45.148 --> 00:30:49.087
+EDA, AI, GenAI, prompt engineer. This is all the
+
+449
+00:30:49.108 --> 00:30:52.808
+branches, guys. Very clear? So here, this is
+
+450
+00:30:52.908 --> 00:30:56.568
+also I covered yesterday. If you
+
+451
+00:30:56.608 --> 00:31:00.568
+absent yesterday's session, I would request you to please
+
+452
+00:31:00.768 --> 00:31:04.288
+watch the yesterday video. And yesterday, I detailed
+
+453
+00:31:04.308 --> 00:31:08.068
+explain, if you're planning to join, maybe
+
+454
+00:31:08.288 --> 00:31:10.328
+lot of non-technical, they're confused.
+
+455
+00:31:10.948 --> 00:31:14.788
+Can I choose data analyst, business analyst, data scientist, full-stack
+
+456
+00:31:14.828 --> 00:31:18.388
+data scientist, Python with GenAI, Agentic AI?
+
+457
+00:31:19.008 --> 00:31:21.088
+I would recommend you to join this.
+
+458
+00:31:21.208 --> 00:31:25.028
+The reason being, you will have all seven
+
+459
+00:31:25.128 --> 00:31:27.208
+exposure in eighth one, guys.
+
+460
+00:31:28.428 --> 00:31:32.308
+Clear? All seven exposure comes here, and the package would be very
+
+461
+00:31:32.368 --> 00:31:36.148
+good handsome package. We'll build, deploy, scale AI
+
+462
+00:31:36.228 --> 00:31:37.748
+product, SaaS end-to-end.
+
+463
+00:31:38.928 --> 00:31:42.728
+I built SaaS project earlier. So we build lot of deployments in
+
+464
+00:31:42.768 --> 00:31:43.108
+cloud
+
+465
+00:31:44.208 --> 00:31:46.307
+throughout the journey. Got my point?
+
+466
+00:31:46.988 --> 00:31:50.948
+So this is what the eighth. So this is what I am
+
+467
+00:31:50.988 --> 00:31:53.528
+here. You are going to learn this subject.
+
+468
+00:31:53.588 --> 00:31:55.418
+In this subject, everything comes up.
+
+469
+00:31:56.208 --> 00:31:59.848
+So first day might be you cannot judge everything.
+
+470
+00:31:59.908 --> 00:32:03.588
+When the days goes on, you slowly understand all the topics,
+
+471
+00:32:03.668 --> 00:32:05.488
+guys. Online team clear
+
+472
+00:32:06.768 --> 00:32:07.328
+up to this?
+
+473
+00:32:08.288 --> 00:32:09.468
+Okay, and finish.
+
+474
+00:32:11.828 --> 00:32:14.488
+No, the syllabus is different, Ansuka.
+
+475
+00:32:16.028 --> 00:32:18.808
+Okay, great. So next one is
+
+476
+00:32:20.128 --> 00:32:22.538
+about Google Classroom. What is Google Classroom?
+
+477
+00:32:23.208 --> 00:32:27.028
+After you enroll the batch, we
+
+478
+00:32:27.108 --> 00:32:30.308
+will create a Google Classroom. What is Google Classroom?
+
+479
+00:32:30.518 --> 00:32:34.148
+How do I share notes on daily basis?
+
+480
+00:32:34.848 --> 00:32:35.848
+If you see this,
+
+481
+00:32:37.268 --> 00:32:38.278
+so 10:30 a.m.,
+
+482
+00:32:39.128 --> 00:32:39.268
+so
+
+483
+00:32:41.508 --> 00:32:45.108
+yesterday my students are build some projects.
+
+484
+00:32:45.688 --> 00:32:49.628
+Okay? Do you see how to recognize a face, and we
+
+485
+00:32:49.648 --> 00:32:53.568
+build one applications here. So daily basis, I will
+
+486
+00:32:53.708 --> 00:32:57.388
+post regular class notes in the Google Classroom.
+
+487
+00:32:57.628 --> 00:33:01.348
+Are you clear, guys? So the Google Classroom already created.
+
+488
+00:33:02.008 --> 00:33:05.708
+Whoever enrolled the batch, I would kind request you to
+
+489
+00:33:05.868 --> 00:33:09.488
+take your enrollment and make sure your Gmail ID
+
+490
+00:33:09.568 --> 00:33:13.528
+needs to add in here, guys. Your Gmail ID needs to add
+
+491
+00:33:13.568 --> 00:33:17.328
+here. So your name should do display in the
+
+492
+00:33:17.368 --> 00:33:21.308
+Google Classroom portal so that on daily basis,
+
+493
+00:33:21.428 --> 00:33:24.988
+whenever I share material, you will get it immediately.
+
+494
+00:33:25.048 --> 00:33:28.408
+Are you clear, guys? The notes will be sharing in the Google
+
+495
+00:33:28.468 --> 00:33:32.268
+Classroom. No WhatsApp, no Instagram, nothing.
+
+496
+00:33:32.328 --> 00:33:36.248
+So this is a Google Classroom. If you notice this, did you see
+
+497
+00:33:36.348 --> 00:33:40.028
+on daily basis I post these class notes,
+
+498
+00:33:40.468 --> 00:33:44.088
+chunking, transformers, embeddings, clustering algorithms,
+
+499
+00:33:44.668 --> 00:33:48.568
+all this thing I'm sharing to you. So after you enroll-- Good
+
+500
+00:33:48.628 --> 00:33:50.968
+morning, and send the screenshot.
+
+501
+00:33:51.208 --> 00:33:53.908
+Okay, Deepak, if you paid, done. No worries.
+
+502
+00:33:54.368 --> 00:33:56.288
+The team will add you the Google Classroom.
+
+503
+00:33:56.848 --> 00:34:00.628
+So whoever paid right now, I can see some good people already
+
+504
+00:34:00.728 --> 00:34:04.448
+done. If you're done your payment or enrollment, so you will
+
+505
+00:34:04.508 --> 00:34:08.388
+receive the link from us. Please join
+
+506
+00:34:08.428 --> 00:34:11.368
+the link so that your name will be display here.
+
+507
+00:34:12.188 --> 00:34:14.669
+Team understood? Your name would be display here.
+
+508
+00:34:14.828 --> 00:34:18.448
+So I'm sharing all the documents from going forward.
+
+509
+00:34:18.768 --> 00:34:22.368
+Very clear? So this is all about Google Classroom.
+
+510
+00:34:22.948 --> 00:34:26.928
+Next one, full stack GenAI, Agentic AI course content.
+
+511
+00:34:27.428 --> 00:34:31.248
+So I already give you the course content, and let me tell you the
+
+512
+00:34:31.288 --> 00:34:32.008
+course content.
+
+513
+00:34:33.058 --> 00:34:36.708
+There is a two course content. If you see this course content,
+
+514
+00:34:37.008 --> 00:34:37.308
+this
+
+515
+00:34:39.028 --> 00:34:42.669
+is all the modules we covered, Agent, MCP, Prompt Engineer,
+
+516
+00:34:42.788 --> 00:34:46.589
+GenAI, LLM, Vector Database, NLP, Python, resume
+
+517
+00:34:46.669 --> 00:34:48.988
+preparations. Everything comes into here, guys.
+
+518
+00:34:49.868 --> 00:34:51.109
+Clear? And
+
+519
+00:34:51.948 --> 00:34:55.728
+what exactly I covered in this. So I already detailed
+
+520
+00:34:55.808 --> 00:34:59.358
+mention here how to build single-agent system, what are the
+
+521
+00:34:59.428 --> 00:35:02.368
+hands-on, how to build LangChain. Do you see?
+
+522
+00:35:02.448 --> 00:35:06.308
+We build lot of practicals, guys. So we build a LangChain,
+
+523
+00:35:06.488 --> 00:35:08.848
+LangGraph, Llama model, Gemma model.
+
+524
+00:35:08.968 --> 00:35:12.388
+Lot of practicals we'll build in it here.
+
+525
+00:35:13.068 --> 00:35:15.858
+Done? And single-agent, multi-agent.
+
+526
+00:35:16.508 --> 00:35:20.188
+So what I see that this is the syllabus which I made.
+
+527
+00:35:20.288 --> 00:35:23.468
+I gave you another syllabus because there is a
+
+528
+00:35:23.568 --> 00:35:27.348
+new topic been added. I added a new topic.
+
+529
+00:35:28.008 --> 00:35:31.368
+To get the new topic, I give you the second syllabus to
+
+530
+00:35:31.428 --> 00:35:35.008
+you. Understood? So that is why I gave you two syllabus.
+
+531
+00:35:35.628 --> 00:35:37.688
+Have you download? What is course name?
+
+532
+00:35:38.168 --> 00:35:41.508
+The name of the course is Full Stack GenAI Agentic AI.
+
+533
+00:35:41.668 --> 00:35:42.428
+Okay, Yagnesh.
+
+534
+00:35:43.468 --> 00:35:47.208
+So if anyone join first time, so I want you to scan the
+
+535
+00:35:47.328 --> 00:35:51.288
+QR code. At last, I'll give to you guys. Okay, team?
+
+536
+00:35:51.988 --> 00:35:55.828
+So this is the second content
+
+537
+00:35:55.868 --> 00:35:59.468
+which I designed. In this second content, there are
+
+538
+00:35:59.628 --> 00:36:02.738
+new things I added here. What is the new topic
+
+539
+00:36:02.908 --> 00:36:03.628
+added?
+
+540
+00:36:04.508 --> 00:36:07.788
+For example, the security, LLM security.
+
+541
+00:36:07.828 --> 00:36:11.768
+Okay, deployment in clouds. There are new IDs has been added.
+
+542
+00:36:13.168 --> 00:36:15.268
+Windsurf I added, and then
+
+543
+00:36:16.408 --> 00:36:20.168
+Autogen I added, Pydantic I added. All right?
+
+544
+00:36:20.728 --> 00:36:22.528
+Why data science included here?
+
+545
+00:36:24.308 --> 00:36:26.308
+Okay, why data science included here?
+
+546
+00:36:27.248 --> 00:36:30.008
+What question? If I not include, people will ask why.
+
+547
+00:36:30.568 --> 00:36:32.268
+Tell me, is this valid question, guys?
+
+548
+00:36:33.684 --> 00:36:36.564
+Is this a valid question? Why does data science include here?
+
+549
+00:36:36.624 --> 00:36:39.763
+Online team answer me. Agnes, I will speak with you.
+
+550
+00:36:39.884 --> 00:36:41.124
+I think that's what I'm saying.
+
+551
+00:36:42.584 --> 00:36:46.304
+Online team answer me. When you feel some students are asking why
+
+552
+00:36:46.384 --> 00:36:50.104
+data science include here, without data, nothing possible.
+
+553
+00:36:50.184 --> 00:36:53.864
+100% right. Data science is nothing but data
+
+554
+00:36:53.964 --> 00:36:55.984
+cleaning. Is required or not?
+
+555
+00:36:56.784 --> 00:37:00.504
+You want to build end-to-end, those are base point. Exactly.
+
+556
+00:37:00.744 --> 00:37:01.784
+You joined first time, Iru?
+
+557
+00:37:03.484 --> 00:37:05.554
+Agnes, fresher or experienced?
+
+558
+00:37:07.804 --> 00:37:09.024
+I will speak with you, okay?
+
+559
+00:37:10.044 --> 00:37:10.604
+No worries.
+
+560
+00:37:12.584 --> 00:37:13.284
+Fresher, right?
+
+561
+00:37:14.004 --> 00:37:17.444
+Exactly. Windsurf
+
+562
+00:37:17.604 --> 00:37:18.304
+companies are
+
+563
+00:37:18.404 --> 00:37:22.524
+using.
+
+564
+00:37:22.604 --> 00:37:25.344
+That's what I teach windsurf. Replit agent.
+
+565
+00:37:25.644 --> 00:37:26.604
+Advanced things.
+
+566
+00:37:28.264 --> 00:37:32.104
+See, LLM ops, okay? Evaluations, monitoring,
+
+567
+00:37:32.204 --> 00:37:34.964
+tracing, guardrails is important or not.
+
+568
+00:37:35.604 --> 00:37:38.804
+This is all advanced things I've been added, so that's why.
+
+569
+00:37:39.524 --> 00:37:43.144
+Okay, you have 17-year experience, then you ask this question, man.
+
+570
+00:37:43.264 --> 00:37:46.684
+I will speak with you, okay, Agnes? Just wait after the class.
+
+571
+00:37:47.684 --> 00:37:47.924
+Okay.
+
+572
+00:37:49.384 --> 00:37:53.144
+If you don't want data science, you can continue to skip for
+
+573
+00:37:53.304 --> 00:37:57.164
+two weeks, three weeks class. Data science, Emil, I will cover on the Saturday
+
+574
+00:37:57.264 --> 00:38:00.774
+classes, guys. Got my point? My main focus on--
+
+575
+00:38:01.184 --> 00:38:04.344
+Let me write it down here. The main focus on
+
+576
+00:38:04.764 --> 00:38:06.564
+GenAI, agentic AI,
+
+577
+00:38:08.104 --> 00:38:08.524
+and
+
+578
+00:38:09.484 --> 00:38:11.484
+then we have
+
+579
+00:38:12.484 --> 00:38:15.464
+Python, and then cloud deployments,
+
+580
+00:38:16.464 --> 00:38:19.604
+and LLM model securities, and all those things. Clear?
+
+581
+00:38:20.504 --> 00:38:24.424
+Okay. Online team understood? So I want you to download the two
+
+582
+00:38:24.544 --> 00:38:26.984
+codes content, and then we discuss this.
+
+583
+00:38:28.464 --> 00:38:29.204
+So the next one.
+
+584
+00:38:31.424 --> 00:38:31.704
+Okay.
+
+585
+00:38:32.524 --> 00:38:36.194
+So the two codes content I give it to you, you download the two codes
+
+586
+00:38:36.344 --> 00:38:40.224
+content. If anybody not downloaded, then we can do this.
+
+587
+00:38:40.234 --> 00:38:40.754
+Pretty clear?
+
+588
+00:38:41.643 --> 00:38:43.964
+The another one-- Just one second.
+
+589
+00:38:46.604 --> 00:38:47.064
+So
+
+590
+00:38:48.584 --> 00:38:50.264
+I want to show you some roadmap.
+
+591
+00:38:52.004 --> 00:38:53.084
+Slideshow from
+
+592
+00:38:54.204 --> 00:38:55.044
+current slide.
+
+593
+00:39:02.644 --> 00:39:02.944
+Okay.
+
+594
+00:39:03.884 --> 00:39:04.504
+Two minutes.
+
+595
+00:39:07.324 --> 00:39:07.664
+Okay.
+
+596
+00:39:09.804 --> 00:39:13.484
+So I want everyone to download. Do you see the codes roadmap?
+
+597
+00:39:14.184 --> 00:39:17.764
+What is a roadmap? How is journey? So when you travel
+
+598
+00:39:17.804 --> 00:39:21.364
+from one place to other place, you need to plan your work or not?
+
+599
+00:39:22.204 --> 00:39:25.264
+What is the plan your work? How did you plan your work?
+
+600
+00:39:25.364 --> 00:39:29.084
+You have a plan. If you want to stay three
+
+601
+00:39:29.184 --> 00:39:33.044
+days in Goa, you need to plan first day what you need to do,
+
+602
+00:39:33.104 --> 00:39:37.084
+second day what you need to do. So in this roadmap, online team you see
+
+603
+00:39:37.104 --> 00:39:37.584
+the screen?
+
+604
+00:39:38.404 --> 00:39:38.824
+First,
+
+605
+00:39:39.724 --> 00:39:43.544
+I need your dedication, consistency, everyday class
+
+606
+00:39:43.644 --> 00:39:47.424
+review, class code practice, home assignments, guys.
+
+607
+00:39:48.544 --> 00:39:51.924
+And then Python programming, basic Python,
+
+608
+00:39:52.184 --> 00:39:55.334
+advanced Python, OOPS concepts, data structure.
+
+609
+00:39:55.773 --> 00:39:59.744
+I will cover these topics in Python. This is the first. Got my point?
+
+610
+00:39:59.964 --> 00:40:01.604
+Without this, this is not possible.
+
+611
+00:40:02.524 --> 00:40:03.514
+This part,
+
+612
+00:40:04.644 --> 00:40:08.544
+EDA, data analytics, NumPy, Pandas, Matplotlib,
+
+613
+00:40:08.664 --> 00:40:12.024
+Seaborn, SciPy, Plotly. This I will cover on EDA part,
+
+614
+00:40:12.144 --> 00:40:16.104
+exploratory data analysis. These not want much time, guys,
+
+615
+00:40:16.204 --> 00:40:19.754
+these things. Got my point? And then statistics
+
+616
+00:40:19.864 --> 00:40:23.343
+probability is very important because probability, what is
+
+617
+00:40:23.364 --> 00:40:27.144
+probability score of next token generations in LLM
+
+618
+00:40:27.184 --> 00:40:30.224
+model? Got my point. And this
+
+619
+00:40:30.864 --> 00:40:34.324
+machine learning regressions model, all I will explain in Saturday
+
+620
+00:40:34.384 --> 00:40:38.164
+classes. Clear? All I'll explain in only
+
+621
+00:40:38.224 --> 00:40:42.024
+Saturday classes. And then artificial intelligence, NLP,
+
+622
+00:40:42.344 --> 00:40:44.824
+deep learning, neural network, computer vision.
+
+623
+00:40:45.584 --> 00:40:49.184
+Then Azure MLOps, Azure Databricks, Google Colab.
+
+624
+00:40:49.924 --> 00:40:53.463
+In cloud, also introduce AWS, GCP.
+
+625
+00:40:53.523 --> 00:40:57.124
+And there's a two thing, everybody please try to
+
+626
+00:40:57.204 --> 00:41:00.404
+attend workshops on Sunday. Okay?
+
+627
+00:41:00.504 --> 00:41:02.974
+Every month I'll take two workshops.
+
+628
+00:41:03.084 --> 00:41:06.954
+That workshops will be very advanced because most of the topic--
+
+629
+00:41:07.384 --> 00:41:08.524
+Can I have your phone number?
+
+630
+00:41:09.404 --> 00:41:13.244
+No, I don't have now. You can connect to me on LinkedIn, Susmita Shah,
+
+631
+00:41:13.444 --> 00:41:15.424
+okay? Then we will see this.
+
+632
+00:41:16.304 --> 00:41:18.394
+From Python, how many days you will teach?
+
+633
+00:41:18.904 --> 00:41:20.864
+Raju, what question you asking, man?
+
+634
+00:41:22.924 --> 00:41:26.544
+Can you tell me if a sixth-class kid ask you
+
+635
+00:41:26.784 --> 00:41:29.224
+math, how many days you will teach? What did you say, Raju?
+
+636
+00:41:30.044 --> 00:41:33.784
+Okay, anyway, please let me finish, and then I answer your queries.
+
+637
+00:41:34.604 --> 00:41:34.924
+Okay.
+
+638
+00:41:36.904 --> 00:41:40.404
+So here, next Azure. After that, GenAI,
+
+639
+00:41:40.584 --> 00:41:43.764
+transformers, GANs, WQGAN, theming
+
+640
+00:41:43.804 --> 00:41:47.184
+transformers, BERT model. What is BERT? Anybody?
+
+641
+00:41:47.704 --> 00:41:48.444
+What is BERT?
+
+642
+00:41:52.304 --> 00:41:55.684
+What is-- Module-wise, the topic will cover, Raju.
+
+643
+00:41:55.984 --> 00:41:59.584
+Module-wise. First will be six, then advanced, then OOPS.
+
+644
+00:42:00.104 --> 00:42:02.504
+Got my point? It hardly will go for three weeks.
+
+645
+00:42:04.304 --> 00:42:06.344
+Clear now?
+
+646
+00:42:07.324 --> 00:42:11.064
+Okay, so this is GenAI. Who created BERT? Anyone.
+
+647
+00:42:12.304 --> 00:42:13.384
+Who created BERT?
+
+648
+00:42:14.444 --> 00:42:15.084
+BERT model.
+
+649
+00:42:16.444 --> 00:42:19.664
+BERT is bidirectional encoder decoder.
+
+650
+00:42:19.844 --> 00:42:23.504
+Very good, team. It's Google created the BERT model, isn't it?
+
+651
+00:42:24.224 --> 00:42:28.004
+And then here, LSTM, GRU, gated recurrent unit, encoder,
+
+652
+00:42:28.104 --> 00:42:30.704
+decoder, architecture, transfer learning like GANs,
+
+653
+00:42:31.504 --> 00:42:35.338
+WQGAN, ImageNet. AlexNet. We have a lot of
+
+654
+00:42:35.428 --> 00:42:39.388
+things. Then LLM models, OpenAI, Gemini, Llama,
+
+655
+00:42:39.468 --> 00:42:42.518
+Ollama, Hugging Face, Groq, Serper API key,
+
+656
+00:42:43.088 --> 00:42:46.768
+DuckDuckGo search, RAG model, fine-tuning, Stable
+
+657
+00:42:46.868 --> 00:42:49.707
+Diffusion, VectorDB, how to build a pipeline.
+
+658
+00:42:49.948 --> 00:42:53.148
+Just now I teach you how to build the workflows.
+
+659
+00:42:53.308 --> 00:42:57.048
+Front-end part, Streamlit, FastAPI, Flask, Kinter.
+
+660
+00:42:57.708 --> 00:43:01.668
+We have a lot of things. Every day bunch of works, guys, I'll give
+
+661
+00:43:01.728 --> 00:43:03.048
+you. Understood?
+
+662
+00:43:05.468 --> 00:43:09.368
+And then prompt engineering. In prompt engineering,
+
+663
+00:43:09.708 --> 00:43:13.408
+you must need to know what is zero-shot prompt, one-shot prompt,
+
+664
+00:43:13.648 --> 00:43:14.548
+few-shot prompt,
+
+665
+00:43:15.628 --> 00:43:19.548
+zero-code prompt, one-code prompt, few-code prompt.
+
+666
+00:43:19.608 --> 00:43:23.218
+What is LLM model setting? In LLM model setting, I'll teach you what is
+
+667
+00:43:23.248 --> 00:43:26.868
+temperature does, what is top P value, what is
+
+668
+00:43:26.968 --> 00:43:30.888
+top K, what is frequency penalty. There is a lot
+
+669
+00:43:30.948 --> 00:43:34.688
+of advanced things, and then, yep, you get it now.
+
+670
+00:43:35.348 --> 00:43:39.288
+And next one, in agentic AI, we build LangChain agent, we build
+
+671
+00:43:39.348 --> 00:43:40.288
+LangGraph agent.
+
+672
+00:43:41.148 --> 00:43:44.288
+In-depth. Yes, man, I'll cover in depth RAG,
+
+673
+00:43:44.448 --> 00:43:47.068
+fine-tuning. Yagnesh, I will cover in depth.
+
+674
+00:43:47.868 --> 00:43:49.708
+I think you joined first time, right?
+
+675
+00:43:50.648 --> 00:43:54.028
+If you go back, see, I will cover in depth.
+
+676
+00:43:54.148 --> 00:43:57.548
+I'm a 15 years industry. I have 18 year work professional.
+
+677
+00:43:58.128 --> 00:43:59.048
+You got my point?
+
+678
+00:44:00.228 --> 00:44:04.168
+So I'll cover everything. See, can
+
+679
+00:44:04.228 --> 00:44:06.368
+you wait me? Can you allow me some time?
+
+680
+00:44:06.508 --> 00:44:10.328
+I will cover it, and then we'll discuss LangGraph, CrewAI, Phi
+
+681
+00:44:10.428 --> 00:44:14.028
+Data. So this is just a planning. I'll give you a
+
+682
+00:44:14.068 --> 00:44:16.968
+glance idea that four to five months.
+
+683
+00:44:17.068 --> 00:44:20.718
+These topics not covered in four months, definite it will take five
+
+684
+00:44:20.768 --> 00:44:22.228
+months. Are you guys clear?
+
+685
+00:44:23.728 --> 00:44:27.168
+And I don't want to skip any topic because-- Yes.
+
+686
+00:44:30.208 --> 00:44:32.248
+Okay. Yes, Divya, this is--
+
+687
+00:44:33.828 --> 00:44:36.848
+Sure. Aman, yeah, you can do this, guys.
+
+688
+00:44:37.528 --> 00:44:40.908
+And then resume and then all those things we have team.
+
+689
+00:44:41.008 --> 00:44:44.888
+Actually, there is a lot of things I wanted to added still, but the screen
+
+690
+00:44:44.928 --> 00:44:47.848
+is not freezing, so that's why it is done.
+
+691
+00:44:48.288 --> 00:44:49.208
+Team, are you clear?
+
+692
+00:44:51.448 --> 00:44:55.248
+So the moment I start focusing on topics, suddenly a new question is taken.
+
+693
+00:44:55.308 --> 00:44:55.848
+Exactly.
+
+694
+00:44:57.408 --> 00:45:00.718
+Team, online team understood now? Offline team, you got some clarity?
+
+695
+00:45:01.628 --> 00:45:04.608
+Offline team got some clarity? Please answer me yes or no.
+
+696
+00:45:04.948 --> 00:45:06.608
+Online team, did you got some clarity?
+
+697
+00:45:08.088 --> 00:45:10.168
+Online team, did you got some clarity?
+
+698
+00:45:11.728 --> 00:45:14.028
+Please answer me yes or no. Great.
+
+699
+00:45:15.508 --> 00:45:19.428
+This is my first workshop. Can you clarify about daily schedule of five months?
+
+700
+00:45:22.428 --> 00:45:23.028
+Divya.
+
+701
+00:45:23.828 --> 00:45:27.168
+Daily schedule when you get to know. Okay, team?
+
+702
+00:45:27.948 --> 00:45:30.168
+Every day what I teach, it is not a school.
+
+703
+00:45:31.088 --> 00:45:33.708
+We do one thing, you can download the course content.
+
+704
+00:45:33.848 --> 00:45:37.668
+Whatever daily I covered, you can do the tick mark, and you make a note.
+
+705
+00:45:37.848 --> 00:45:40.528
+Divya, can you do that for the daily schedule?
+
+706
+00:45:41.448 --> 00:45:45.388
+Team, everyone is clear, five-two roadmap? Yes, guys.
+
+707
+00:45:46.148 --> 00:45:47.748
+Okay. So actually,
+
+708
+00:45:48.648 --> 00:45:52.608
+data science, ML also, I included because I feel
+
+709
+00:45:52.628 --> 00:45:56.568
+to have-- As I'm expert on data scientist, is there any harm
+
+710
+00:45:56.628 --> 00:45:59.628
+if I give any extra knowledge? If you don't want, I don't give it.
+
+711
+00:46:00.248 --> 00:46:03.228
+Online team, you decide. Team, clear?
+
+712
+00:46:03.648 --> 00:46:04.638
+So the next one is--
+
+713
+00:46:09.168 --> 00:46:10.697
+Can someone call me on--
+
+714
+00:46:12.768 --> 00:46:16.728
+Sushmita, what happened, dear? Arif, take this girl number.
+
+715
+00:46:17.548 --> 00:46:17.808
+Okay?
+
+716
+00:46:19.008 --> 00:46:19.268
+Okay.
+
+717
+00:46:20.848 --> 00:46:24.448
+So guys, please request. Wait for some time, okay?
+
+718
+00:46:24.988 --> 00:46:28.768
+Now, this is the way most of we want
+
+719
+00:46:28.988 --> 00:46:31.828
+exactly. Let me tell you, most of the
+
+720
+00:46:33.688 --> 00:46:36.428
+professionals fool the students very well. You know why?
+
+721
+00:46:37.208 --> 00:46:39.788
+They will speak only GenAI, they will cover it in one month.
+
+722
+00:46:40.168 --> 00:46:42.248
+Do you think any course will cover it in one month?
+
+723
+00:46:42.948 --> 00:46:45.878
+Online team, experience, guys. 17 year, 20 year,
+
+724
+00:46:46.828 --> 00:46:49.628
+50 year experience, guys. You answer me, guys. Leaders.
+
+725
+00:46:50.448 --> 00:46:53.428
+Will you finish any topic in the world?
+
+726
+00:46:53.968 --> 00:46:57.698
+I see many people in Naresh IT, many faculties,
+
+727
+00:46:58.368 --> 00:47:02.188
+in other fair faculties, they train a GenAI agentic in two
+
+728
+00:47:02.228 --> 00:47:06.088
+months, man. Surprise. You guys got my
+
+729
+00:47:06.128 --> 00:47:06.428
+point?
+
+730
+00:47:07.288 --> 00:47:09.608
+So this is highly impossible, I would say.
+
+731
+00:47:10.248 --> 00:47:14.208
+If you really hunger for learning, if you can't sit,
+
+732
+00:47:14.458 --> 00:47:18.428
+and you can't do code, you can't do practice, from my point
+
+733
+00:47:18.508 --> 00:47:19.598
+of view, no, not possible.
+
+734
+00:47:20.588 --> 00:47:24.468
+Got my point, guys? Okay. So the next one is data never
+
+735
+00:47:24.548 --> 00:47:28.268
+sleep. World, day by day, data increasing or decreasing?
+
+736
+00:47:29.068 --> 00:47:32.548
+Data increasing. Did you know why this new
+
+737
+00:47:32.568 --> 00:47:36.288
+technology will be emerged? Did you know every 60
+
+738
+00:47:36.408 --> 00:47:39.668
+seconds, 98,000-plus tweets are
+
+739
+00:47:40.388 --> 00:47:42.628
+introduced? Tweets. And
+
+740
+00:47:43.008 --> 00:47:46.868
+695,000 status updates, 11 million
+
+741
+00:47:46.928 --> 00:47:48.108
+instant messages,
+
+742
+00:47:49.048 --> 00:47:52.248
+698,445 Google searches,
+
+743
+00:47:52.908 --> 00:47:55.248
+168 million emails sent,
+
+744
+00:47:56.288 --> 00:48:00.088
+1,820 terabytes of data created,
+
+745
+00:48:00.828 --> 00:48:04.778
+270 new mobile web users per 60 seconds,
+
+746
+00:48:04.868 --> 00:48:07.848
+guys. That is why LLM model has introduced.
+
+747
+00:48:09.268 --> 00:48:11.968
+Team, are you clear? All are text data or not?
+
+748
+00:48:13.328 --> 00:48:17.028
+Earlier we have only one phone. Now in a family, everybody has one
+
+749
+00:48:17.348 --> 00:48:20.948
+phone. Agree? So that means the data is
+
+750
+00:48:21.008 --> 00:48:24.828
+increasing. So the data increasing, cloud demands, AI
+
+751
+00:48:24.908 --> 00:48:27.888
+demands, GenAI demands, guys. Isn't it?
+
+752
+00:48:28.468 --> 00:48:32.028
+So that's why you have to work on stick to the data, guys.
+
+753
+00:48:32.648 --> 00:48:36.028
+And the next one, the beautiful part of the program is
+
+754
+00:48:37.804 --> 00:48:41.424
+If you learn this
+
+755
+00:48:41.504 --> 00:48:42.004
+program,
+
+756
+00:48:42.924 --> 00:48:46.364
+how many jobs you can apply? I want to ask you all expertise
+
+757
+00:48:46.404 --> 00:48:49.924
+freshers. If you learn Java, how many
+
+758
+00:48:50.184 --> 00:48:51.884
+jobs you can apply? Anybody?
+
+759
+00:48:52.984 --> 00:48:55.884
+Only Java developers you can apply. Am I correct or not?
+
+760
+00:48:57.084 --> 00:49:00.584
+When you learn .NET, how many jobs you can apply?
+
+761
+00:49:01.904 --> 00:49:03.084
+Only .NET developer.
+
+762
+00:49:03.984 --> 00:49:05.983
+But did you know it is an ocean, guys.
+
+763
+00:49:07.004 --> 00:49:10.964
+Gen AI, agentic, is a ocean. ML, artificial intelligence
+
+764
+00:49:11.044 --> 00:49:14.604
+is an ocean. So when you learn complete
+
+765
+00:49:14.664 --> 00:49:17.504
+subject, you have a bunch of opportunities.
+
+766
+00:49:17.584 --> 00:49:21.464
+What is opportunities? Yeah. So here you can
+
+767
+00:49:21.484 --> 00:49:25.184
+Python developer, data analyst, junior data
+
+768
+00:49:25.284 --> 00:49:28.964
+scientist, NLP engineer, deep learning engineer,
+
+769
+00:49:29.264 --> 00:49:32.664
+Gen AI engineer, software engineer, LLM
+
+770
+00:49:32.764 --> 00:49:35.724
+developer, prompt engineer, principal data
+
+771
+00:49:35.744 --> 00:49:39.084
+scientist, Azure AI engineer, and then AI
+
+772
+00:49:39.184 --> 00:49:40.304
+architect as well.
+
+773
+00:49:41.184 --> 00:49:45.164
+LLM architect, AI architect, agentic. New job roles.
+
+774
+00:49:45.824 --> 00:49:49.424
+So learn this course, you have a bunch of options to apply.
+
+775
+00:49:50.224 --> 00:49:51.264
+Online team clear?
+
+776
+00:49:52.124 --> 00:49:55.744
+Online team understood? So what are the job roles we have in the
+
+777
+00:49:55.784 --> 00:49:58.784
+market? What are the job roles we have in the market?
+
+778
+00:49:59.284 --> 00:50:02.264
+So which among these deals with building AI applications?
+
+779
+00:50:02.484 --> 00:50:04.604
+Everything you build AI applications.
+
+780
+00:50:05.324 --> 00:50:08.964
+What is mean by AI applications? Chatbot building, customer
+
+781
+00:50:09.084 --> 00:50:12.604
+feedback analysis, recommendation engine, all
+
+782
+00:50:12.884 --> 00:50:16.824
+comes under AI project, guys. Clear now?
+
+783
+00:50:16.884 --> 00:50:19.504
+Next one. So career opportunities.
+
+784
+00:50:19.864 --> 00:50:23.744
+If you see the diagram, you will get
+
+785
+00:50:24.144 --> 00:50:26.664
+Gen AI engineer, prompt engineer,
+
+786
+00:50:27.604 --> 00:50:28.584
+LLM engineer,
+
+787
+00:50:29.384 --> 00:50:32.824
+AI application developer, agentic engineer,
+
+788
+00:50:33.144 --> 00:50:36.304
+RAG engineer, AI automation, AI
+
+789
+00:50:36.404 --> 00:50:38.824
+consultant, AI product developer.
+
+790
+00:50:40.224 --> 00:50:42.664
+Online team, you got clarity? So that's what I'm saying.
+
+791
+00:50:42.844 --> 00:50:46.364
+If I covered all the slides, lot of
+
+792
+00:50:46.504 --> 00:50:50.064
+ideas you will get. So this is all about the career
+
+793
+00:50:50.124 --> 00:50:53.004
+opportunities we have. Understood, team?
+
+794
+00:50:53.553 --> 00:50:57.304
+And the next one, look at the salary ranges in Indian standard.
+
+795
+00:50:57.884 --> 00:51:00.124
+What are the salary ranges you expected?
+
+796
+00:51:00.744 --> 00:51:02.364
+If you're from entry level,
+
+797
+00:51:04.424 --> 00:51:08.264
+so for data scientist, all these
+
+798
+00:51:08.274 --> 00:51:12.144
+entry level, all the subjects comes under this bracket, six
+
+799
+00:51:12.184 --> 00:51:15.984
+to eight, because in India nowadays, little job recession
+
+800
+00:51:16.044 --> 00:51:19.844
+is going on. So that's why. Middle level, two to five years,
+
+801
+00:51:20.004 --> 00:51:23.984
+you can achieve for these applications like eight, 15,
+
+802
+00:51:24.144 --> 00:51:26.484
+six, and all those things comes up here.
+
+803
+00:51:27.164 --> 00:51:30.624
+If you for senior level, you can target for 25 lakhs plus,
+
+804
+00:51:31.124 --> 00:51:35.084
+five plus. For the five years, 25, and
+
+805
+00:51:35.224 --> 00:51:38.984
+for research and Gen AI, salary
+
+806
+00:51:39.024 --> 00:51:42.904
+depends on place to place. In Bangalore, the living cost
+
+807
+00:51:42.964 --> 00:51:46.154
+is very high, so the salary would be very high. Understood, team?
+
+808
+00:51:46.824 --> 00:51:50.224
+So experience depends on your high salary.
+
+809
+00:51:50.784 --> 00:51:54.654
+Location based on the location, based on the company, based on the
+
+810
+00:51:54.744 --> 00:51:56.984
+skill, based on the educations you carry.
+
+811
+00:51:57.704 --> 00:51:57.904
+To
+
+812
+00:51:58.764 --> 00:52:02.064
+high salary, your experience really depends.
+
+813
+00:52:02.544 --> 00:52:03.444
+Are you clear, guys?
+
+814
+00:52:04.784 --> 00:52:08.424
+Are you clear? You got somewhat standards you can expected,
+
+815
+00:52:08.884 --> 00:52:12.704
+I clearly mentioned today. Now, the good part
+
+816
+00:52:12.744 --> 00:52:16.344
+is, by learning this, you not only apply
+
+817
+00:52:16.404 --> 00:52:20.284
+jobs in India for salary range, according to
+
+818
+00:52:20.344 --> 00:52:24.184
+market research. I done lot of research according to the market for
+
+819
+00:52:24.224 --> 00:52:28.064
+Gen AI developer, agentic dev, LLM, prompt engineer, and
+
+820
+00:52:28.224 --> 00:52:31.744
+principal data scientist, ML data analyst. Okay?
+
+821
+00:52:32.164 --> 00:52:35.704
+AI architect. For Argentina, Australia, Canada,
+
+822
+00:52:35.904 --> 00:52:39.784
+China, France, I searched a lot of, because I
+
+823
+00:52:39.844 --> 00:52:42.004
+work with lot of clients, I know them.
+
+824
+00:52:42.564 --> 00:52:46.124
+German, Indian, average standard India, London, Mexico,
+
+825
+00:52:46.173 --> 00:52:49.824
+Morocco, Singapore, South Africa, Spain, Sweden,
+
+826
+00:52:50.104 --> 00:52:50.464
+US.
+
+827
+00:52:51.824 --> 00:52:55.344
+Guys, are you clear? So what I'm trying to speak is...
+
+828
+00:52:56.564 --> 00:52:58.393
+Of course. Yes, Vinit, of course.
+
+829
+00:52:58.484 --> 00:53:01.984
+Based on
+
+830
+00:53:02.204 --> 00:53:05.984
+your, what we call, Gen AI, agentic salary slabs, you mentioned
+
+831
+00:53:06.044 --> 00:53:07.264
+here. Pretty clear now?
+
+832
+00:53:08.084 --> 00:53:11.464
+So the next one. Okay, so I think someone has
+
+833
+00:53:11.524 --> 00:53:15.484
+questions we'll cover now. So did you see the market, how
+
+834
+00:53:15.524 --> 00:53:18.564
+the market is growing? Have you seen the statistical graph?
+
+835
+00:53:19.364 --> 00:53:22.904
+Why I'm showing all those things, market revenue based
+
+836
+00:53:23.004 --> 00:53:26.764
+on the years, I could say like 2020,
+
+837
+00:53:27.384 --> 00:53:30.824
+according to Bloomberg report,
+
+838
+00:53:31.384 --> 00:53:35.184
+look at that x-axis and y-axis. X-axis is your
+
+839
+00:53:35.284 --> 00:53:39.244
+year, y-axis is revenue, which you spent in Gen AI,
+
+840
+00:53:39.344 --> 00:53:42.284
+and total technology spend based on the world.
+
+841
+00:53:42.984 --> 00:53:46.624
+All right, world reports 2020, entire world spent 14 million on
+
+842
+00:53:46.724 --> 00:53:47.044
+AI.
+
+843
+00:53:47.904 --> 00:53:51.784
+2020 to 40 million, 14. '25,
+
+844
+00:53:52.184 --> 00:53:55.544
+'26, we are at 2026, 304 million,
+
+845
+00:53:56.184 --> 00:53:59.184
+and now when you see the statistical grow, we are at
+
+846
+00:53:59.384 --> 00:54:03.164
+2026. Can you tell me, do we have a good scope or not?
+
+847
+00:54:04.624 --> 00:54:08.464
+Online team, are you clear, guys? Did you understood what we talk
+
+848
+00:54:08.524 --> 00:54:12.464
+about this? The statistical graph, how Gen AI and agentic
+
+849
+00:54:12.564 --> 00:54:16.304
+AI has give you the statistical graph of the
+
+850
+00:54:16.344 --> 00:54:19.504
+future, and where it really helpful for you guys.
+
+851
+00:54:20.244 --> 00:54:24.064
+Okay. Exactly, Srinivas, yes, we'll
+
+852
+00:54:24.144 --> 00:54:26.644
+build all these things, prototypes, functional.
+
+853
+00:54:27.344 --> 00:54:29.364
+All these things we'll build, no problem.
+
+854
+00:54:29.624 --> 00:54:33.424
+So that is why I designed the ecosystem such a way,
+
+855
+00:54:33.844 --> 00:54:37.324
+you addicted to it one by one. Understood, Srinivas?
+
+856
+00:54:37.404 --> 00:54:41.384
+So that's what I build lot of how to trust
+
+857
+00:54:41.464 --> 00:54:45.264
+me. So if you see all the... Okay,
+
+858
+00:54:45.384 --> 00:54:46.054
+I'll share
+
+859
+00:54:48.000 --> 00:54:51.720
+Just one second. That is what I created some of the
+
+860
+00:54:51.760 --> 00:54:55.500
+playlist too, because experienced guys, of course, you will ask the
+
+861
+00:54:55.560 --> 00:54:59.140
+questions I know. So that's the reason I
+
+862
+00:54:59.220 --> 00:55:01.300
+created my-- Okay.
+
+863
+00:55:02.120 --> 00:55:05.720
+Look at that. In a playlist, you can find how LLM works, what is
+
+864
+00:55:05.960 --> 00:55:08.440
+multi-agent build, what Claude AI work.
+
+865
+00:55:08.980 --> 00:55:12.780
+Explain coworker code LLM, scheming model, OpenClaude agent,
+
+866
+00:55:12.920 --> 00:55:16.050
+MCP, RAG, A2A protocol,
+
+867
+00:55:16.300 --> 00:55:18.300
+N810, LangGraph.
+
+868
+00:55:19.120 --> 00:55:22.750
+You can find me, guys. But by learning YouTubes,
+
+869
+00:55:23.860 --> 00:55:26.750
+there is everybody get job. It's not
+
+870
+00:55:26.760 --> 00:55:30.520
+possible. By YouTube, if you do only project,
+
+871
+00:55:30.680 --> 00:55:34.600
+it is not possible, guys. You need to know why to build project,
+
+872
+00:55:36.060 --> 00:55:38.920
+for what client, all these things we need to do this, guys.
+
+873
+00:55:39.080 --> 00:55:39.880
+But my point,
+
+874
+00:55:41.020 --> 00:55:44.880
+team understood. So that's what all experienced people, you can go and check
+
+875
+00:55:45.120 --> 00:55:48.820
+and read it. Then you satisfy you can get it or not
+
+876
+00:55:49.180 --> 00:55:50.860
+don't want it. Pretty clear.
+
+877
+00:55:51.900 --> 00:55:55.710
+So this is what technology. And duration,
+
+878
+00:55:55.840 --> 00:55:59.420
+four to five months, one and half hours, hands-on learning,
+
+879
+00:55:59.860 --> 00:56:02.060
+industry-based training. Okay, guys.
+
+880
+00:56:02.640 --> 00:56:06.100
+Duration is already given here. And what
+
+881
+00:56:06.180 --> 00:56:08.440
+software I will be explaining you?
+
+882
+00:56:08.450 --> 00:56:11.960
+The softwares we work on VS Code, Jupyter, Spyder,
+
+883
+00:56:12.180 --> 00:56:16.100
+PyCharm, Google Colab, Cursor AI Agent, Cline,
+
+884
+00:56:16.740 --> 00:56:19.260
+Windsurf, Lovable, Perplexity AI.
+
+885
+00:56:19.800 --> 00:56:23.220
+And there is many more agent. We have Claude Code, Black Box.
+
+886
+00:56:24.020 --> 00:56:27.320
+So if you go back to the VS Code, I will teach you how to
+
+887
+00:56:27.380 --> 00:56:30.960
+install these agents as well because we
+
+888
+00:56:31.020 --> 00:56:33.320
+install-- There's a tons of agents.
+
+889
+00:56:33.380 --> 00:56:37.210
+So this is Cline agent, and then we have Claude
+
+890
+00:56:37.280 --> 00:56:41.220
+Code. There are Kilo Code. There are lot of agents I will
+
+891
+00:56:41.280 --> 00:56:45.220
+tell you how to install. As it is a first day we're going on,
+
+892
+00:56:45.300 --> 00:56:49.240
+I'm not trying to get into more in-depth as I'm in a flow.
+
+893
+00:56:49.400 --> 00:56:53.060
+I'm in a continue of step-by-step approach I'm following you,
+
+894
+00:56:53.600 --> 00:56:57.219
+so that everything is aligned in one pace. Are you clear, guys?
+
+895
+00:56:57.720 --> 00:57:01.240
+So this is these applications we can build,
+
+896
+00:57:01.760 --> 00:57:04.040
+and this is a very fantastic classes.
+
+897
+00:57:04.520 --> 00:57:06.220
+And trust me, and
+
+898
+00:57:07.200 --> 00:57:10.900
+if the problem of you only has to-- And every daily basis, I
+
+899
+00:57:10.980 --> 00:57:14.420
+maintain this tracker. Yesterday, what is the topic I covered?
+
+900
+00:57:15.120 --> 00:57:17.180
+Today, what is the topic I'll explain?
+
+901
+00:57:17.640 --> 00:57:20.340
+What is the project I'm giving you on daily basis?
+
+902
+00:57:20.500 --> 00:57:24.380
+What is the task I'm assigning? Everyone has GitHub account?
+
+903
+00:57:25.760 --> 00:57:27.820
+Online team, everyone has a GitHub account?
+
+904
+00:57:28.849 --> 00:57:31.920
+The first task I will assign to create a GitHub account.
+
+905
+00:57:32.560 --> 00:57:34.380
+I want everyone to GitHub account.
+
+906
+00:57:34.560 --> 00:57:38.440
+If you doesn't create any GitHub, I want you to please create a
+
+907
+00:57:38.500 --> 00:57:42.340
+GitHub so that on daily basis, you can track your
+
+908
+00:57:42.360 --> 00:57:46.100
+GitHub repo on daily basis, guys. I want you
+
+909
+00:57:46.140 --> 00:57:50.000
+to create a folder. The
+
+910
+00:57:50.040 --> 00:57:53.960
+name of the folder. I will explain how to create a GitHub repo
+
+911
+00:57:54.020 --> 00:57:56.460
+in tomorrow class. Understood, guys?
+
+912
+00:57:57.280 --> 00:58:01.120
+I want create a folder because learning and tracing
+
+913
+00:58:01.180 --> 00:58:03.700
+is very important. What do I believe?
+
+914
+00:58:03.760 --> 00:58:07.080
+Whatever I teach, we need to track each and every session.
+
+915
+00:58:07.720 --> 00:58:11.000
+And every day I will ask questions what we covered yesterday.
+
+916
+00:58:11.760 --> 00:58:15.480
+Understood, guys? Whatever we covered yesterday, I will ask
+
+917
+00:58:15.540 --> 00:58:18.580
+questions. So the real classes begin.
+
+918
+00:58:18.660 --> 00:58:22.640
+Slowly, I involve in the main topic as the demo
+
+919
+00:58:22.740 --> 00:58:26.500
+is going on. And let me tell you one more thing.
+
+920
+00:58:26.540 --> 00:58:28.880
+The last announcement, I just wanted to--
+
+921
+00:58:30.160 --> 00:58:33.160
+I request you to just get your spot soon
+
+922
+00:58:33.860 --> 00:58:34.200
+to--
+
+923
+00:58:36.580 --> 00:58:40.520
+I think you receive a message from our admin, Mr. Arif, sir.
+
+924
+00:58:42.680 --> 00:58:44.939
+This is very simple way you can enrolled here.
+
+925
+00:58:45.100 --> 00:58:46.120
+This is Naresh IT
+
+926
+00:58:47.220 --> 00:58:50.760
+official website. You can enter your full name, you can write the
+
+927
+00:58:50.800 --> 00:58:54.620
+codes. You can codes, you can mention-- See, don't worry about the
+
+928
+00:58:54.660 --> 00:58:58.060
+bunch of codes. So you can mention GenA Agentik with
+
+929
+00:58:58.080 --> 00:59:01.230
+Python. All right? You can mention this codes, everybody.
+
+930
+00:59:01.300 --> 00:59:04.280
+And you have a multiple codes, you don't worry about that.
+
+931
+00:59:04.340 --> 00:59:07.599
+So don't worry about advanced GenA. This is all for marketing.
+
+932
+00:59:08.080 --> 00:59:11.960
+So you just mention this. Okay? And which one,
+
+933
+00:59:12.040 --> 00:59:15.960
+guys? GenA Agentik with Python. Batch timing, mention
+
+934
+00:59:16.300 --> 00:59:17.300
+7:30 AM batch.
+
+935
+00:59:18.800 --> 00:59:21.400
+Faculty name, you can mention my name. All right?
+
+936
+00:59:21.940 --> 00:59:25.080
+And here you can find out the Prakash Senapathi.
+
+937
+00:59:25.660 --> 00:59:29.300
+All right, guys. So you can have my name.
+
+938
+00:59:29.380 --> 00:59:29.710
+You can
+
+939
+00:59:30.720 --> 00:59:34.160
+continue for enrollment. This is what you select
+
+940
+00:59:34.200 --> 00:59:37.860
+it, and then you can codes fees. Which branch?
+
+941
+00:59:38.100 --> 00:59:41.720
+So right now it is online mode. You can keep it online mode, and
+
+942
+00:59:41.800 --> 00:59:45.040
+then pay based on discussions with Arif, guys.
+
+943
+00:59:45.720 --> 00:59:49.140
+And for US and for other country,
+
+944
+00:59:49.900 --> 00:59:53.239
+so you can have these all the detail. So you can go for it.
+
+945
+00:59:54.100 --> 00:59:55.100
+I want to say one thing.
+
+946
+00:59:56.380 --> 00:59:57.150
+The thing is,
+
+947
+00:59:58.100 --> 01:00:00.600
+if you know and judge,
+
+948
+01:00:01.540 --> 01:00:04.620
+I will explain every day like this, the first thing.
+
+949
+01:00:05.340 --> 01:00:07.160
+I will each and everything's covered.
+
+950
+01:00:07.580 --> 01:00:10.049
+I want you to covered more time, guys.
+
+951
+01:00:10.700 --> 01:00:13.640
+Spend more time on work. I'll give you more
+
+952
+01:00:13.700 --> 01:00:17.640
+assignments. I'll give you more work. Every day notes I will share.
+
+953
+01:00:17.820 --> 01:00:21.740
+I will unmute you. We can talk each other. No worries at all.
+
+954
+01:00:22.280 --> 01:00:22.850
+Pretty clear.
+
+955
+01:00:24.000 --> 01:00:27.800
+Are you guys understood now? Okay, then can we learn how can
+
+956
+01:00:27.900 --> 01:00:31.160
+create AI chatbot like front-end, back-end, FastAPI? Yeah.
+
+957
+01:00:32.980 --> 01:00:36.880
+Dean Dayal already-- Yeah, man, this is simple questions
+
+958
+01:00:36.920 --> 01:00:37.400
+you ask.
+
+959
+01:00:38.380 --> 01:00:41.540
+Monolithic architecture. What is monolithic architecture?
+
+960
+01:00:41.780 --> 01:00:45.320
+Monolithic architecture mean end-to-end. You create a front-end, back-end.
+
+961
+01:00:45.940 --> 01:00:47.240
+Yeah, man, we'll build
+
+962
+01:00:48.508 --> 01:00:50.648
+GitHub Copilot, SDLC.
+
+963
+01:00:51.848 --> 01:00:55.628
+Use Amazon Q. Let me tell you, Claude, Anthropic, Vive
+
+964
+01:00:55.708 --> 01:00:56.068
+Coding,
+
+965
+01:00:57.928 --> 01:00:59.228
+AI Foundry. See,
+
+966
+01:01:00.448 --> 01:01:04.008
+Dean Dayal Rajak, don't ask a question, whatever available
+
+967
+01:01:04.128 --> 01:01:07.728
+technology in the world. I'm a human being. I will teach AI.
+
+968
+01:01:08.268 --> 01:01:11.928
+You guys got my point? Being an experience, you should know which
+
+969
+01:01:12.028 --> 01:01:15.548
+things you need to ask. Whatever you ask questions,
+
+970
+01:01:16.088 --> 01:01:19.928
+you never get into more package by the way you
+
+971
+01:01:19.988 --> 01:01:20.468
+learned it.
+
+972
+01:01:21.908 --> 01:01:25.568
+Tomorrow discuss also. I will tell you how to create a-- I'm a 10-year
+
+973
+01:01:25.608 --> 01:01:28.608
+person with data background, and I have no experience in Python.
+
+974
+01:01:28.648 --> 01:01:30.108
+That is what I'm teaching you now, guys.
+
+975
+01:01:31.248 --> 01:01:32.268
+That's what I'm teaching you.
+
+976
+01:01:33.308 --> 01:01:34.608
+Okay. One second.
+
+977
+01:01:35.568 --> 01:01:36.048
+And
+
+978
+01:01:37.128 --> 01:01:37.608
+June.
+
+979
+01:01:38.448 --> 01:01:42.188
+So in demo, I will same topics repeat again for
+
+980
+01:01:42.308 --> 01:01:46.228
+few times. Once I start the batch, whoever join at last,
+
+981
+01:01:46.408 --> 01:01:48.228
+I will continue, guys. Pretty clear?
+
+982
+01:01:48.668 --> 01:01:50.748
+Okay, now it's question and answer time.
+
+983
+01:01:51.408 --> 01:01:55.348
+So I have to speak with some of the people. Let's continue.
+
+984
+01:01:56.188 --> 01:01:56.428
+Okay?
+
+985
+01:01:57.528 --> 01:01:59.568
+So please download all the course content.
+
+986
+01:02:00.128 --> 01:02:02.768
+Okay, there's a few thing we'll discuss, and we'll start.
+
+987
+01:02:03.188 --> 01:02:06.888
+First task, GitHub creations. Then I'll give you one link for
+
+988
+01:02:06.928 --> 01:02:10.588
+software installations. If already have VS Code, that's fine.
+
+989
+01:02:10.868 --> 01:02:12.368
+And then we will talk about this.
+
+990
+01:02:13.188 --> 01:02:13.628
+Clear.
+
+991
+01:02:15.188 --> 01:02:18.748
+"I'm.NET developer currently working at Nagarro." Okay.
+
+992
+01:02:19.408 --> 01:02:23.228
+"I'm specific in the next looking for trans--" Yeah, it's possible, man.
+
+993
+01:02:23.988 --> 01:02:26.928
+Not just basic AI covers, but deep production level.
+
+994
+01:02:28.408 --> 01:02:28.848
+Aman,
+
+995
+01:02:29.708 --> 01:02:32.118
+lot of experienced guys ask this.
+
+996
+01:02:33.228 --> 01:02:36.198
+Now, Aman, in the market, lot of resource is
+
+997
+01:02:36.228 --> 01:02:40.048
+there. I will unmute you. Who is
+
+998
+01:02:40.068 --> 01:02:40.508
+this guy?
+
+999
+01:02:41.468 --> 01:02:43.008
+Aman Kumar, I'll unmute you.
+
+1000
+01:02:44.168 --> 01:02:44.768
+Can you hear me?
+
+1001
+01:02:46.348 --> 01:02:46.488
+Yeah.
+
+1002
+01:02:46.528 --> 01:02:48.068
+Yes, sir. I can hear you.
+
+1003
+01:02:48.568 --> 01:02:49.308
+Yeah. So
+
+1004
+01:02:50.168 --> 01:02:53.688
+you ask, you are working in a Nagarro, right? It's a very good company.
+
+1005
+01:02:53.788 --> 01:02:57.287
+You are a .NET developer. You are eight-year experience.
+
+1006
+01:02:57.428 --> 01:03:01.128
+My question, you asking me these questions, why you
+
+1007
+01:03:01.208 --> 01:03:02.648
+haven't studied before, man?
+
+1008
+01:03:04.208 --> 01:03:07.838
+Multi-model agent, vector DB, fine-tuning, cost optimization,
+
+1009
+01:03:08.068 --> 01:03:11.888
+everything I'll cover. But my question is, why you didn't cover before?
+
+1010
+01:03:14.208 --> 01:03:16.628
+I'm sorry, didn't get you. What did not I cover?
+
+1011
+01:03:17.228 --> 01:03:18.428
+Why you're not able to listen?
+
+1012
+01:03:19.588 --> 01:03:22.408
+I am saying, you ask these questions.
+
+1013
+01:03:22.488 --> 01:03:26.368
+My focus is not just basic AI. That somebody told it is a basic
+
+1014
+01:03:26.448 --> 01:03:26.688
+AI?
+
+1015
+01:03:28.308 --> 01:03:28.428
+No,
+
+1016
+01:03:29.228 --> 01:03:31.788
+that is not my question, actually, Prakash.
+
+1017
+01:03:31.848 --> 01:03:32.698
+My question is that-
+
+1018
+01:03:33.428 --> 01:03:33.438
+Mm-hmm.
+
+1019
+01:03:33.518 --> 01:03:37.168
+... I'm in the course trying to cover lots of thing in four to five months, but I
+
+1020
+01:03:37.188 --> 01:03:40.268
+am specifically looking for agentic AI depth only.
+
+1021
+01:03:40.658 --> 01:03:40.658
+I do-
+
+1022
+01:03:40.688 --> 01:03:43.628
+Like I saw that it is trying to cover data scientist as well.
+
+1023
+01:03:43.857 --> 01:03:43.878
+I know, man.
+
+1024
+01:03:43.888 --> 01:03:44.668
+Yeah.
+
+1025
+01:03:44.748 --> 01:03:48.308
+So, okay. Wow, man. You are .NET developer.
+
+1026
+01:03:48.568 --> 01:03:50.448
+Do you know how to build a neural network?
+
+1027
+01:03:52.028 --> 01:03:52.868
+No, I do
+
+1028
+01:03:53.888 --> 01:03:54.178
+not know.
+
+1029
+01:03:54.328 --> 01:03:58.048
+That's what I'm saying now. You can ask your questions, buddy, but without
+
+1030
+01:03:58.088 --> 01:04:02.008
+basic neural network. See, do you know
+
+1031
+01:04:02.048 --> 01:04:05.828
+company doesn't build another open AI, company
+
+1032
+01:04:05.908 --> 01:04:07.688
+also use API keys. Am I correct?
+
+1033
+01:04:08.388 --> 01:04:09.148
+Yeah.
+
+1034
+01:04:09.268 --> 01:04:13.108
+Why they use API key? Why they build another open AI like that?
+
+1035
+01:04:15.528 --> 01:04:19.448
+I mean to say everything I will cover, but my question, as you experience,
+
+1036
+01:04:20.088 --> 01:04:21.508
+why didn't you study earlier?
+
+1037
+01:04:24.588 --> 01:04:28.548
+These questions, whatever you're asking me right now, why didn't you study earlier?
+
+1038
+01:04:29.728 --> 01:04:32.488
+I was not trying to transition before.
+
+1039
+01:04:32.528 --> 01:04:35.328
+I was good in .NET, but now I think that-
+
+1040
+01:04:35.688 --> 01:04:35.698
+So exact.
+
+1041
+01:04:35.708 --> 01:04:35.808
+Yeah.
+
+1042
+01:04:35.868 --> 01:04:39.508
+Exactly. Let me tell you. Using .NET, you
+
+1043
+01:04:39.668 --> 01:04:43.588
+cannot build a single applications in LLM. Remember the first thing.
+
+1044
+01:04:44.268 --> 01:04:44.448
+Yes.
+
+1045
+01:04:44.458 --> 01:04:46.968
+Second thing, you must need to Python.
+
+1046
+01:04:47.708 --> 01:04:51.528
+If data scientist is-- It's very important because when you
+
+1047
+01:04:51.588 --> 01:04:55.268
+have text numbers, numbers you can introduce to
+
+1048
+01:04:55.308 --> 01:04:56.928
+LangChain model to the LLMs.
+
+1049
+01:04:57.928 --> 01:04:58.608
+Got my point?
+
+1050
+01:04:59.008 --> 01:04:59.018
+Mm-hmm.
+
+1051
+01:04:59.128 --> 01:05:03.008
+So it is without knowing these things, that is why you guys are
+
+1052
+01:05:03.108 --> 01:05:04.648
+fake by lot of marketing.
+
+1053
+01:05:05.887 --> 01:05:09.827
+Do you know there are lot of marketing, 10th-class guy started YouTube, and
+
+1054
+01:05:09.868 --> 01:05:13.108
+when he talk to you, you will impressed. You know what you impressed?
+
+1055
+01:05:13.748 --> 01:05:15.888
+He will speak that I will cover everything in one month.
+
+1056
+01:05:15.968 --> 01:05:19.948
+Immediately you will joined it, and exactly the main topic would be
+
+1057
+01:05:20.008 --> 01:05:21.648
+missed there. Got my point?
+
+1058
+01:05:22.508 --> 01:05:22.988
+So I will-
+
+1059
+01:05:23.008 --> 01:05:23.018
+Yeah
+
+1060
+01:05:23.018 --> 01:05:25.288
+... cover everything in a structure way.
+
+1061
+01:05:25.388 --> 01:05:28.668
+If you can't have patience, then I'm sorry, don't consider this.
+
+1062
+01:05:30.528 --> 01:05:31.708
+To build
+
+1063
+01:05:32.888 --> 01:05:36.248
+production level, you need to comes from starting stage or not.
+
+1064
+01:05:37.288 --> 01:05:41.168
+Data comes, data cleaning, feature engineering, model building,
+
+1065
+01:05:41.648 --> 01:05:44.428
+deployment, MLOps, then go for deployment.
+
+1066
+01:05:44.788 --> 01:05:45.948
+This is complete workflow.
+
+1067
+01:05:47.508 --> 01:05:47.518
+Mm-hmm.
+
+1068
+01:05:47.518 --> 01:05:48.268
+Got my point, Aman?
+
+1069
+01:05:48.998 --> 01:05:48.998
+Yes.
+
+1070
+01:05:49.048 --> 01:05:52.878
+So why I'm trying to teach you? I'm explaining you because few things,
+
+1071
+01:05:52.988 --> 01:05:56.108
+many experienced people doesn't aware of it.
+
+1072
+01:05:57.148 --> 01:06:00.388
+So that's what everything will covered. No worries about that.
+
+1073
+01:06:00.548 --> 01:06:01.208
+Got my point?
+
+1074
+01:06:01.868 --> 01:06:02.668
+Yes, sir. Got it.
+
+1075
+01:06:02.728 --> 01:06:03.048
+Thank you.
+
+1076
+01:06:05.328 --> 01:06:06.168
+Naresh S.
+
+1077
+01:06:07.268 --> 01:06:09.068
+Yeah, you message me yesterday, right?
+
+1078
+01:06:09.248 --> 01:06:13.128
+I'm 17-year experience and ask a question, and some
+
+1079
+01:06:13.188 --> 01:06:15.188
+of the students you answer
+
+1080
+01:06:16.268 --> 01:06:19.848
+me. Naresh, unmute you. Yes, I saw your message when I want to talk
+
+1081
+01:06:20.328 --> 01:06:23.728
+and you left by the time because you had a call. I remember. Please go ahead.
+
+1082
+01:06:24.168 --> 01:06:25.248
+Yeah. Hi, sir.
+
+1083
+01:06:25.768 --> 01:06:26.108
+Please.
+
+1084
+01:06:26.628 --> 01:06:30.148
+My question is, as you know, there is new
+
+1085
+01:06:30.808 --> 01:06:33.108
+Quentin they have introduced. So
+
+1086
+01:06:33.928 --> 01:06:37.388
+can it guide us with after J ain agentic
+
+1087
+01:06:37.448 --> 01:06:41.268
+approach to Quentin agent or is it going to be
+
+1088
+01:06:41.368 --> 01:06:42.288
+the future tech?
+
+1089
+01:06:44.008 --> 01:06:46.798
+So in this industry, can it be scaled up and are able to-
+
+1090
+01:06:46.888 --> 01:06:50.380
+Your voice is not clear, Naresh. I'm sorry Are you just-
+
+1091
+01:06:50.780 --> 01:06:51.380
+Am I audible?
+
+1092
+01:06:51.920 --> 01:06:53.380
+Yeah. It's better now.
+
+1093
+01:06:53.700 --> 01:06:57.140
+Yeah. So after GenAI and Agentic, we are going to cover, so there is
+
+1094
+01:06:57.520 --> 01:07:00.979
+something quantum, which is going to come over the week.
+
+1095
+01:07:01.020 --> 01:07:04.520
+So is it going to be, sir, like in the Gen, after GenAI,
+
+1096
+01:07:04.560 --> 01:07:07.280
+Agentic, we need to learn quantum, something like that?
+
+1097
+01:07:07.520 --> 01:07:11.220
+No, see, how I start, I'll start Python
+
+1098
+01:07:11.340 --> 01:07:15.120
+first. Okay? Python, once you understood, then we go for
+
+1099
+01:07:15.400 --> 01:07:19.240
+NLP starter, then we go for GenAI, then Agentic, because these are the
+
+1100
+01:07:19.700 --> 01:07:23.540
+basics. And when Saturday comes, I'll introduce
+
+1101
+01:07:23.580 --> 01:07:26.920
+machine learning, I'll introduce data science on weekend classes.
+
+1102
+01:07:27.600 --> 01:07:31.000
+And also every some of the Sunday, I take advance
+
+1103
+01:07:31.480 --> 01:07:35.060
+new topics on Sunday workshops. You can attend those workshops
+
+1104
+01:07:35.120 --> 01:07:35.540
+freely.
+
+1105
+01:07:36.600 --> 01:07:37.360
+Understand?
+
+1106
+01:07:38.220 --> 01:07:42.000
+So, sir, I want to know how you show it, how you see the
+
+1107
+01:07:42.020 --> 01:07:43.640
+quantum things in your perspective.
+
+1108
+01:07:44.120 --> 01:07:46.820
+Your voice is not clear, man. I think you are--
+
+1109
+01:07:49.220 --> 01:07:51.980
+Are you talking in a hall, something the resound is getting?
+
+1110
+01:07:52.530 --> 01:07:52.530
+Yeah.
+
+1111
+01:07:52.560 --> 01:07:55.040
+Can you please speak close to the mic? Sorry.
+
+1112
+01:07:55.140 --> 01:07:58.820
+Sure. So how I see the quantum things after Agentic-
+
+1113
+01:07:58.880 --> 01:08:02.780
+Okay, quantum, see quantum, no company has
+
+1114
+01:08:02.860 --> 01:08:05.280
+introduced now. Everyone is research phase.
+
+1115
+01:08:05.840 --> 01:08:07.600
+Quantum, I'll explain at last.
+
+1116
+01:08:08.620 --> 01:08:10.880
+How qubit works, what is few algorithms.
+
+1117
+01:08:11.020 --> 01:08:14.860
+I'm just introduced to the quantum, and I will have few codes on
+
+1118
+01:08:14.980 --> 01:08:16.820
+quantum. I'll guide you those things.
+
+1119
+01:08:18.221 --> 01:08:18.660
+Thank you.
+
+1120
+01:08:19.400 --> 01:08:19.940
+Okay, Naresh?
+
+1121
+01:08:21.061 --> 01:08:21.540
+Thank you, sir.
+
+1122
+01:08:21.960 --> 01:08:22.380
+Thank you.
+
+1123
+01:08:24.420 --> 01:08:24.800
+Okay.
+
+1124
+01:08:25.900 --> 01:08:26.280
+So
+
+1125
+01:08:27.280 --> 01:08:31.250
+offline team, just listen some of the questions, then all you also
+
+1126
+01:08:31.360 --> 01:08:32.250
+clear, right, guys?
+
+1127
+01:08:33.141 --> 01:08:36.940
+So I got Link844, "I want to know about the codes and need some guidance."
+
+1128
+01:08:37.000 --> 01:08:37.340
+Okay.
+
+1129
+01:08:39.061 --> 01:08:41.590
+Charan, it's already interview question.
+
+1130
+01:08:41.620 --> 01:08:44.641
+Yeah, Rajesh, I provide interview questions, no worries about that,
+
+1131
+01:08:45.320 --> 01:08:49.280
+100%. See, I'll give you my number. No worries.
+
+1132
+01:08:49.681 --> 01:08:53.280
+Clear. I'm not run anywhere. You can come and talk to me.
+
+1133
+01:08:53.340 --> 01:08:54.200
+You can meet me.
+
+1134
+01:08:55.000 --> 01:08:56.021
+Usman, yeah.
+
+1135
+01:08:57.980 --> 01:08:59.620
+SRK, Raju,
+
+1136
+01:09:00.800 --> 01:09:04.740
+Sutam. Guys, I'll answer everyone's query. No problem.
+
+1137
+01:09:04.860 --> 01:09:08.760
+Just give me some time, and day by day I'm answering. Okay.
+
+1138
+01:09:09.800 --> 01:09:13.521
+Can you unmute me? Raju, unmute you. Please go ahead.
+
+1139
+01:09:14.360 --> 01:09:16.589
+Hi, Prakash. This is Ram Kumar.
+
+1140
+01:09:16.589 --> 01:09:17.320
+Hi, Ram Kumar. Mm-hmm.
+
+1141
+01:09:17.580 --> 01:09:18.800
+So I have a question on, like
+
+1142
+01:09:19.820 --> 01:09:21.601
+we develop the application and
+
+1143
+01:09:22.561 --> 01:09:23.460
+after that, right-
+
+1144
+01:09:23.521 --> 01:09:23.610
+Mm-hmm
+
+1145
+01:09:23.610 --> 01:09:25.120
+... we need to productionize it, right?
+
+1146
+01:09:25.940 --> 01:09:26.150
+Mm-hmm.
+
+1147
+01:09:26.150 --> 01:09:26.900
+And deployment part.
+
+1148
+01:09:27.480 --> 01:09:27.589
+Yeah.
+
+1149
+01:09:27.641 --> 01:09:29.471
+Do you cover that part as well, Prakash?
+
+1150
+01:09:29.561 --> 01:09:29.771
+Because-
+
+1151
+01:09:29.900 --> 01:09:33.480
+Yes. I already covered in the free workshop yesterday, SaaS
+
+1152
+01:09:33.521 --> 01:09:36.860
+application deploy. And I will deploy in AWS
+
+1153
+01:09:36.900 --> 01:09:40.700
+Azure. But I will make a payment if you-- See, AWS
+
+1154
+01:09:40.800 --> 01:09:44.721
+provide free services, but for deployment might be charges required.
+
+1155
+01:09:45.380 --> 01:09:48.980
+But no problem, there's a few applications like Hostinger, there we can
+
+1156
+01:09:49.021 --> 01:09:52.000
+deploy. But deployment, I will show you.
+
+1157
+01:09:52.080 --> 01:09:53.681
+If you have paid, then you can deploy.
+
+1158
+01:09:53.780 --> 01:09:57.060
+If not, you can create a blueprint for that, and you continue that.
+
+1159
+01:09:57.740 --> 01:09:58.060
+Okay-
+
+1160
+01:09:58.840 --> 01:10:01.520
+Because we developed a few applications at our work, but
+
+1161
+01:10:02.640 --> 01:10:06.480
+deploying that into Linux server, it was a bit tough, so.
+
+1162
+01:10:06.680 --> 01:10:10.460
+Linux, I'm not teaching you, man. Linux, lot of
+
+1163
+01:10:10.540 --> 01:10:11.320
+issues there.
+
+1164
+01:10:11.940 --> 01:10:13.010
+Mm-hmm. Okay.
+
+1165
+01:10:13.060 --> 01:10:15.820
+Got my point. Okay. For cloud, we can do it.
+
+1166
+01:10:16.500 --> 01:10:17.160
+Okay, thanks.
+
+1167
+01:10:17.320 --> 01:10:18.100
+Okay, thank you.
+
+1168
+01:10:19.280 --> 01:10:22.630
+Vaibhav, unmute you. Mallikarjun, unmute you, and-
+
+1169
+01:10:23.510 --> 01:10:23.570
+Hello.
+
+1170
+01:10:23.570 --> 01:10:25.000
+Yes, please, Ajit Kumar.
+
+1171
+01:10:25.020 --> 01:10:25.640
+Good morning, Prakash.
+
+1172
+01:10:26.040 --> 01:10:26.480
+Good morning.
+
+1173
+01:10:26.540 --> 01:10:29.600
+I'm from Pune location, working in Infosys as a test engineer.
+
+1174
+01:10:29.820 --> 01:10:30.070
+I want to-
+
+1175
+01:10:30.100 --> 01:10:31.100
+Very nice
+
+1176
+01:10:31.160 --> 01:10:34.250
+... in the daily lecture schedule, okay,
+
+1177
+01:10:34.860 --> 01:10:38.820
+so how it will be? Like, while you are sharing the screen, okay, is it
+
+1178
+01:10:38.840 --> 01:10:41.180
+expected, like, do we need to perform the coding?
+
+1179
+01:10:41.400 --> 01:10:45.020
+Do we need to do the coding at the same time or after the-
+
+1180
+01:10:45.820 --> 01:10:47.440
+Good. There is a two thing. There
+
+1181
+01:10:48.820 --> 01:10:51.000
+are few projects you have to do with me.
+
+1182
+01:10:51.540 --> 01:10:53.840
+There is a few projects I'll assign a task.
+
+1183
+01:10:54.480 --> 01:10:58.400
+So in the batch, what happened,
+
+1184
+01:10:58.500 --> 01:11:02.200
+if I write some code, when you write, some people are very slow in
+
+1185
+01:11:02.320 --> 01:11:02.680
+typing.
+
+1186
+01:11:03.060 --> 01:11:03.090
+Correct.
+
+1187
+01:11:03.090 --> 01:11:07.080
+Got my point. So when you're slow in typing, if I can wait, I never finish
+
+1188
+01:11:07.140 --> 01:11:08.080
+this program, guys.
+
+1189
+01:11:09.210 --> 01:11:09.210
+Mm-hmm.
+
+1190
+01:11:09.240 --> 01:11:09.960
+Got my point.
+
+1191
+01:11:10.270 --> 01:11:10.290
+Correctly.
+
+1192
+01:11:10.320 --> 01:11:13.980
+So some of the hard topics, all the topics I'll continue the same
+
+1193
+01:11:14.080 --> 01:11:16.120
+pace. There is no changes in any pace.
+
+1194
+01:11:16.720 --> 01:11:20.100
+But the thing is, it's all depend on you, how do you do it.
+
+1195
+01:11:20.660 --> 01:11:24.480
+So I would recommend when I tell you to work, I will tell you, "Everybody
+
+1196
+01:11:24.580 --> 01:11:27.140
+please open laptop and start work," you can, guys, work.
+
+1197
+01:11:28.500 --> 01:11:32.300
+Got my point. And when I tell you to please assign the task in the home task, you
+
+1198
+01:11:32.320 --> 01:11:34.220
+can do the home task. That's it.
+
+1199
+01:11:35.260 --> 01:11:37.060
+Okay. One more question, Prakash.
+
+1200
+01:11:37.080 --> 01:11:37.170
+Mm-hmm.
+
+1201
+01:11:37.720 --> 01:11:40.690
+Like, there will be any support team who can help us, like if we are-
+
+1202
+01:11:40.690 --> 01:11:40.960
+Yes.
+
+1203
+01:11:41.620 --> 01:11:44.740
+... installing applications like this code-
+
+1204
+01:11:44.840 --> 01:11:44.920
+Yes. I
+
+1205
+01:11:46.180 --> 01:11:48.340
+have this guy number. I will give it to you.
+
+1206
+01:11:48.910 --> 01:11:48.910
+Okay.
+
+1207
+01:11:48.960 --> 01:11:51.720
+I have my team I hired, online mentor for you.
+
+1208
+01:11:51.780 --> 01:11:55.740
+Labs is available. You can reach out to the link, and they will help
+
+1209
+01:11:55.800 --> 01:11:58.120
+you if you're stuck with any queries.
+
+1210
+01:11:58.240 --> 01:12:02.080
+Also, I'll give you after enrollment, I will share you
+
+1211
+01:12:02.860 --> 01:12:06.700
+these, the Google Classroom. You can immediately post
+
+1212
+01:12:06.800 --> 01:12:09.160
+your questions here, and I'm in the loop.
+
+1213
+01:12:09.300 --> 01:12:12.400
+Every day I can track it, and we can continue that.
+
+1214
+01:12:13.020 --> 01:12:13.400
+Clear?
+
+1215
+01:12:14.180 --> 01:12:15.400
+Yes. Prakash, thank you.
+
+1216
+01:12:15.680 --> 01:12:16.420
+Thank you so much.
+
+1217
+01:12:16.460 --> 01:12:19.630
+Hello, Prakash. This is Ajith. And actually, I just wanted to know,
+
+1218
+01:12:20.120 --> 01:12:23.700
+I have a basic understanding on clouds and
+
+1219
+01:12:23.760 --> 01:12:25.910
+then Python as well.
+
+1220
+01:12:26.020 --> 01:12:26.290
+Mm-hmm.
+
+1221
+01:12:26.290 --> 01:12:29.510
+Basically, I'm almost 15 years of experience
+
+1222
+01:12:30.140 --> 01:12:30.880
+person.
+
+1223
+01:12:30.890 --> 01:12:30.890
+Mm-hmm.
+
+1224
+01:12:31.060 --> 01:12:34.500
+I've been leading a team. Basically, I have a data background.
+
+1225
+01:12:34.620 --> 01:12:37.800
+I have been leading a team. I have been architecting that
+
+1226
+01:12:38.560 --> 01:12:39.800
+master data management thing.
+
+1227
+01:12:40.300 --> 01:12:40.380
+Excellent.
+
+1228
+01:12:40.420 --> 01:12:40.640
+But
+
+1229
+01:12:41.660 --> 01:12:41.860
+I
+
+1230
+01:12:43.120 --> 01:12:43.380
+just
+
+1231
+01:12:44.220 --> 01:12:47.370
+don't want to be in a developer role because I'm kind of an architect, and then-
+
+1232
+01:12:47.700 --> 01:12:49.950
+Yeah, you want to lead now. Yeah. Mm-hmm
+
+1233
+01:12:50.140 --> 01:12:53.020
+... leading a team. Yeah. So the thing is, now the role is I just wanted to
+
+1234
+01:12:53.060 --> 01:12:56.240
+transition because yeah, like master data management, all those
+
+1235
+01:12:56.320 --> 01:12:59.500
+things are now just fading away. So-
+
+1236
+01:13:01.008 --> 01:13:04.628
+How can I transition my role into this AI governance and all, because
+
+1237
+01:13:05.428 --> 01:13:08.017
+after 15 years of experience-
+
+1238
+01:13:08.458 --> 01:13:09.858
+So the first thing is-
+
+1239
+01:13:09.858 --> 01:13:09.858
+Yeah
+
+1240
+01:13:09.858 --> 01:13:13.388
+... good question. The first thing is when you become a leader,
+
+1241
+01:13:13.808 --> 01:13:16.988
+so you don't want to be sit and do developing part, right?
+
+1242
+01:13:17.808 --> 01:13:18.258
+Yeah, exactly.
+
+1243
+01:13:18.258 --> 01:13:21.708
+So everything is done by agent. So I want you to
+
+1244
+01:13:21.928 --> 01:13:25.888
+learn, being an architect, you must need to know in-depth knowledge of how it
+
+1245
+01:13:25.928 --> 01:13:29.858
+works, how algorithm builds. Because when quantum learn, you must need
+
+1246
+01:13:29.888 --> 01:13:33.568
+to know ML algorithm. So if he doesn't learn ML algorithm, you cannot build
+
+1247
+01:13:33.628 --> 01:13:35.288
+quantum ML. I test-
+
+1248
+01:13:35.768 --> 01:13:35.858
+Mm-hmm
+
+1249
+01:13:35.858 --> 01:13:38.428
+... ML machines in VS Code, ML machines in quantum.
+
+1250
+01:13:38.948 --> 01:13:39.628
+Quantum ML-
+
+1251
+01:13:39.688 --> 01:13:39.957
+Mm-hmm
+
+1252
+01:13:39.957 --> 01:13:41.308
+... machines are very faster than us.
+
+1253
+01:13:41.808 --> 01:13:45.368
+So because when you know the subject, then future would be
+
+1254
+01:13:45.408 --> 01:13:49.308
+advanced. So I'm sure by the learning of this journey, you
+
+1255
+01:13:49.348 --> 01:13:51.388
+got to have a glance idea, not in...
+
+1256
+01:13:51.868 --> 01:13:55.438
+See, nowadays anyone can learn the subject by OpenAI
+
+1257
+01:13:55.448 --> 01:13:57.958
+ChatGPT and got some blueprint. Am I correct or not?
+
+1258
+01:13:58.988 --> 01:14:02.828
+In few days back, understand this subject is very hard, but now
+
+1259
+01:14:02.888 --> 01:14:05.668
+understand subject is easy. Agree with me or not?
+
+1260
+01:14:06.207 --> 01:14:07.398
+You can get a diagrams-
+
+1261
+01:14:07.688 --> 01:14:07.698
+Exactly
+
+1262
+01:14:07.698 --> 01:14:11.008
+... you can get a diagrams, you can get a blueprint, you can get lot of bunch of
+
+1263
+01:14:11.108 --> 01:14:14.108
+stuffs, and you get some understanding what happens there.
+
+1264
+01:14:14.528 --> 01:14:17.948
+But in here, what happen, but that is not enough.
+
+1265
+01:14:18.288 --> 01:14:21.998
+You need some experience. When I work in 18 years experience,
+
+1266
+01:14:22.548 --> 01:14:26.158
+I study lot of books, so I know how the big journey begins,
+
+1267
+01:14:26.188 --> 01:14:29.988
+where the problem falls. So that's where the real time
+
+1268
+01:14:30.028 --> 01:14:30.568
+comes up.
+
+1269
+01:14:32.428 --> 01:14:36.168
+Yes. Exactly. So I just wanted to understand the core architecture of all
+
+1270
+01:14:36.208 --> 01:14:36.628
+those
+
+1271
+01:14:38.448 --> 01:14:38.948
+topics-
+
+1272
+01:14:39.368 --> 01:14:39.378
+Yeah
+
+1273
+01:14:39.378 --> 01:14:40.388
+... so that I can understand-
+
+1274
+01:14:40.408 --> 01:14:41.648
+Yes. Yes
+
+1275
+01:14:41.658 --> 01:14:45.508
+... I can transition to that. And because I haven't worked on this in or
+
+1276
+01:14:45.668 --> 01:14:47.338
+led any team on this-
+
+1277
+01:14:47.368 --> 01:14:47.378
+Mm-hmm
+
+1278
+01:14:47.378 --> 01:14:48.468
+... this kind of projects-
+
+1279
+01:14:48.508 --> 01:14:48.528
+Mm-hmm
+
+1280
+01:14:48.548 --> 01:14:52.348
+... because, yeah, I was leading and doing this data management kind of a master
+
+1281
+01:14:52.408 --> 01:14:53.088
+data management.
+
+1282
+01:14:53.548 --> 01:14:53.668
+Mm-hmm.
+
+1283
+01:14:53.688 --> 01:14:57.568
+So I just wanted... So will you be providing few projects?
+
+1284
+01:14:58.608 --> 01:15:02.538
+Yeah. See, I will tell you. I will see. What is capstone?
+
+1285
+01:15:03.228 --> 01:15:05.288
+Capstone means the project which is live.
+
+1286
+01:15:05.408 --> 01:15:07.528
+For example, banking domain is always live.
+
+1287
+01:15:08.288 --> 01:15:09.608
+Healthcare is always live.
+
+1288
+01:15:10.208 --> 01:15:10.217
+Yeah.
+
+1289
+01:15:10.307 --> 01:15:13.168
+Insurance is always live. Manufacturing is always live.
+
+1290
+01:15:13.828 --> 01:15:17.288
+If you mention these projects, so I'll give these projects to the learner.
+
+1291
+01:15:17.808 --> 01:15:18.408
+Got my point?
+
+1292
+01:15:18.428 --> 01:15:18.518
+Mm-hmm.
+
+1293
+01:15:19.108 --> 01:15:22.488
+So you decide, if your role is, I will guide you.
+
+1294
+01:15:22.608 --> 01:15:24.808
+How do you integrate this learning on your project?
+
+1295
+01:15:25.288 --> 01:15:27.168
+That we have a separate discussions for that.
+
+1296
+01:15:28.528 --> 01:15:28.748
+Okay.
+
+1297
+01:15:29.428 --> 01:15:29.988
+Got it now.
+
+1298
+01:15:30.678 --> 01:15:30.678
+Yeah.
+
+1299
+01:15:30.678 --> 01:15:34.228
+So I would say that you have to little build technical as well.
+
+1300
+01:15:34.328 --> 01:15:36.128
+You have to write code, build algorithms.
+
+1301
+01:15:36.688 --> 01:15:40.437
+You have to carry some students mentality to work sometime,
+
+1302
+01:15:40.738 --> 01:15:41.848
+and things would be smooth.
+
+1303
+01:15:43.368 --> 01:15:45.308
+Yeah. That's the thing basically now.
+
+1304
+01:15:45.728 --> 01:15:46.937
+Kind of how this-
+
+1305
+01:15:47.608 --> 01:15:50.708
+What is the problem I face you guys is, you will join the batch.
+
+1306
+01:15:51.268 --> 01:15:51.888
+You will like it.
+
+1307
+01:15:52.028 --> 01:15:52.038
+Mm-hmm.
+
+1308
+01:15:52.048 --> 01:15:55.428
+You every classes you understand. You practice two to three class.
+
+1309
+01:15:55.928 --> 01:15:59.628
+When you have third class you have attend with meeting, and you drop the
+
+1310
+01:15:59.708 --> 01:16:02.888
+momentum. When you drop the momentum and you lost,
+
+1311
+01:16:03.708 --> 01:16:07.048
+and again you come back, and again you'll look for another batch.
+
+1312
+01:16:07.528 --> 01:16:10.888
+It's not you. I saw the batches. I train architecture.
+
+1313
+01:16:11.408 --> 01:16:14.428
+I train lot of people. This is what happens to you guys.
+
+1314
+01:16:15.108 --> 01:16:15.898
+Now you have-
+
+1315
+01:16:15.898 --> 01:16:15.898
+Yeah
+
+1316
+01:16:15.928 --> 01:16:19.648
+... to dealt with these things, and everything is fine.
+
+1317
+01:16:20.188 --> 01:16:24.008
+Yeah, exactly. So basically, my motto here is just to
+
+1318
+01:16:24.048 --> 01:16:27.088
+transition my role into this leadership, into this
+
+1319
+01:16:27.188 --> 01:16:28.138
+AI or-
+
+1320
+01:16:28.148 --> 01:16:28.248
+Mm-hmm
+
+1321
+01:16:28.258 --> 01:16:29.377
+... kind of-
+
+1322
+01:16:29.788 --> 01:16:30.498
+Let me tell you-
+
+1323
+01:16:30.498 --> 01:16:31.338
+... governance role
+
+1324
+01:16:31.448 --> 01:16:31.578
+... all leaders-
+
+1325
+01:16:31.588 --> 01:16:32.028
+Not like a-
+
+1326
+01:16:32.648 --> 01:16:33.128
+Let me tell you-
+
+1327
+01:16:33.218 --> 01:16:33.268
+Yeah
+
+1328
+01:16:33.288 --> 01:16:37.088
+... all leadership really is automized and they fired. Do you know?
+
+1329
+01:16:37.188 --> 01:16:37.768
+All VP-
+
+1330
+01:16:37.778 --> 01:16:37.778
+Sorry?
+
+1331
+01:16:37.778 --> 01:16:40.808
+... jobs, all VP jobs, AVP jobs are in danger.
+
+1332
+01:16:41.608 --> 01:16:44.058
+Yeah, exactly. So I just wanted to transition into this-
+
+1333
+01:16:44.188 --> 01:16:44.368
+That's why-
+
+1334
+01:16:44.468 --> 01:16:45.928
+... new phase. Yeah. Technology
+
+1335
+01:16:46.528 --> 01:16:50.208
+... transition is possible only when you sit and do code.
+
+1336
+01:16:51.488 --> 01:16:52.088
+Let me tell you.
+
+1337
+01:16:52.228 --> 01:16:52.388
+Yeah.
+
+1338
+01:16:52.828 --> 01:16:56.688
+So only sit and do code, that is only one possibilities you have
+
+1339
+01:16:56.808 --> 01:17:00.418
+now. Whatever VP does, AVP does, everything done by
+
+1340
+01:17:00.448 --> 01:17:04.228
+ChatGPT. So why companies are hired at 10 VPs in a project,
+
+1341
+01:17:04.268 --> 01:17:06.548
+man? Agree with me or not?
+
+1342
+01:17:06.568 --> 01:17:07.528
+Yeah, exactly.
+
+1343
+01:17:07.568 --> 01:17:10.488
+So that's why what I'm saying, this is the best time.
+
+1344
+01:17:10.498 --> 01:17:14.388
+You have a time now. You plant a seed. Let it grow.
+
+1345
+01:17:14.728 --> 01:17:16.668
+When you spend every day, you practice.
+
+1346
+01:17:17.208 --> 01:17:20.787
+And consistency, and definitely whatever you expected you can
+
+1347
+01:17:20.797 --> 01:17:24.648
+possible. Because in your resume you don't have knowledge, how did you mention in
+
+1348
+01:17:24.688 --> 01:17:25.368
+the resume now?
+
+1349
+01:17:26.248 --> 01:17:30.148
+Got my point. So when you learn, you can plant those skills in your
+
+1350
+01:17:30.168 --> 01:17:32.588
+resume, and you much, much better day by day.
+
+1351
+01:17:33.788 --> 01:17:34.158
+Clear at least?
+
+1352
+01:17:34.288 --> 01:17:36.808
+Yeah, because I have a data architecture knowledge, and I have
+
+1353
+01:17:37.908 --> 01:17:38.768
+been doing that
+
+1354
+01:17:39.748 --> 01:17:41.648
+in my current project and everything.
+
+1355
+01:17:41.708 --> 01:17:41.818
+Yeah. Let's see.
+
+1356
+01:17:41.818 --> 01:17:45.208
+So I just wanted to add that, I just wanted to plug in this AI-
+
+1357
+01:17:45.368 --> 01:17:45.708
+Exactly
+
+1358
+01:17:45.748 --> 01:17:49.628
+... into my experience so that overall, it should
+
+1359
+01:17:49.668 --> 01:17:51.428
+be completely as a whole so that-
+
+1360
+01:17:51.478 --> 01:17:53.188
+Possible. 100% possible.
+
+1361
+01:17:53.648 --> 01:17:53.658
+Yeah.
+
+1362
+01:17:53.708 --> 01:17:55.708
+100% possible. Okay?
+
+1363
+01:17:56.828 --> 01:17:56.898
+Okay.
+
+1364
+01:17:56.948 --> 01:17:58.108
+Definitely you can do it.
+
+1365
+01:17:59.468 --> 01:18:00.388
+Yeah. Hi, Prakash.
+
+1366
+01:18:00.828 --> 01:18:01.328
+Hi, please.
+
+1367
+01:18:02.088 --> 01:18:04.148
+Yeah. So I have 10 plus years of experience.
+
+1368
+01:18:04.348 --> 01:18:04.818
+Mm-hmm.
+
+1369
+01:18:04.818 --> 01:18:06.768
+So complete my experience is in database side.
+
+1370
+01:18:07.028 --> 01:18:08.078
+So initially I started-
+
+1371
+01:18:08.748 --> 01:18:08.758
+Very nice
+
+1372
+01:18:08.758 --> 01:18:12.308
+... initially I started like a database administrator after data
+
+1373
+01:18:12.328 --> 01:18:12.808
+warehousing.
+
+1374
+01:18:13.048 --> 01:18:13.058
+Mm-hmm.
+
+1375
+01:18:13.068 --> 01:18:16.168
+Currently I'm working like in a Snowflake engineer.
+
+1376
+01:18:16.768 --> 01:18:17.308
+Very nice.
+
+1377
+01:18:17.448 --> 01:18:18.278
+So my question-
+
+1378
+01:18:18.288 --> 01:18:19.128
+Snowflake cloud.
+
+1379
+01:18:19.928 --> 01:18:20.128
+Yes.
+
+1380
+01:18:20.628 --> 01:18:20.698
+Mm-hmm.
+
+1381
+01:18:20.768 --> 01:18:24.568
+So my question is how I can use it like agent AI
+
+1382
+01:18:24.628 --> 01:18:25.608
+and gen AI in-
+
+1383
+01:18:25.908 --> 01:18:27.108
+Very simple. Very simple
+
+1384
+01:18:27.118 --> 01:18:28.028
+... data engineering side.
+
+1385
+01:18:28.208 --> 01:18:31.748
+How a company know me or know you based on
+
+1386
+01:18:31.808 --> 01:18:35.548
+resume. Agree? In your resume, if you mention
+
+1387
+01:18:35.768 --> 01:18:39.268
+Snowflake job descriptions, you will get only Snowflake call.
+
+1388
+01:18:39.608 --> 01:18:43.488
+Correct? So in your experience 10 years, you
+
+1389
+01:18:43.528 --> 01:18:47.388
+can mention every working professionals out there, whoever watching
+
+1390
+01:18:47.428 --> 01:18:47.578
+it,
+
+1391
+01:18:48.428 --> 01:18:51.388
+main thing company knows about is resume.
+
+1392
+01:18:51.648 --> 01:18:54.188
+Even though I want to apply job, the resume is important.
+
+1393
+01:18:54.728 --> 01:18:58.648
+So everybody mention last three to four years, I'm working on a
+
+1394
+01:18:58.828 --> 01:19:00.458
+agentic AI POC
+
+1395
+01:19:01.896 --> 01:19:05.796
+Correct. So when we mention this agentic APOC, whenever I'll
+
+1396
+01:19:05.836 --> 01:19:09.276
+teach you any building LLMs, you can mention that on your resume
+
+1397
+01:19:09.776 --> 01:19:13.656
+and you start getting interview call on agent, and then you integrate agent
+
+1398
+01:19:13.676 --> 01:19:17.416
+with Snowflake. Agent can integrate with Jira, agent can
+
+1399
+01:19:17.476 --> 01:19:21.376
+integrate with your ticketing, agent can integrate with your lot
+
+1400
+01:19:21.416 --> 01:19:24.196
+of other tools, guys. Everywhere the agent is integrate.
+
+1401
+01:19:25.036 --> 01:19:27.356
+I hope understood, Mallikarjun.
+
+1402
+01:19:28.976 --> 01:19:29.056
+No.
+
+1403
+01:19:30.036 --> 01:19:31.496
+Not completely, just like-
+
+1404
+01:19:32.196 --> 01:19:34.696
+I am saying you are 10-year experience.
+
+1405
+01:19:35.216 --> 01:19:39.096
+Mention you're working in a company for six years, you're working as a
+
+1406
+01:19:39.196 --> 01:19:42.916
+Snowflake. After that, you got a POC of
+
+1407
+01:19:42.926 --> 01:19:46.856
+agentic AI POC. The agent I try to integrate with
+
+1408
+01:19:46.916 --> 01:19:50.876
+Snowflake cloud, and we try to get amazing response for big
+
+1409
+01:19:50.916 --> 01:19:54.116
+datas, and we build agents to automize a task.
+
+1410
+01:19:55.016 --> 01:19:55.796
+Now you clear.
+
+1411
+01:19:57.036 --> 01:19:58.685
+Yeah. Actually, one more question.
+
+1412
+01:19:58.776 --> 01:19:59.236
+See, normally-
+
+1413
+01:19:59.856 --> 01:20:02.776
+No, this question, are you clear? Are you clear this question?
+
+1414
+01:20:03.456 --> 01:20:03.816
+Yes.
+
+1415
+01:20:04.216 --> 01:20:04.416
+Okay.
+
+1416
+01:20:04.496 --> 01:20:07.476
+So already we have in Snowflake, it is already integrated.
+
+1417
+01:20:08.196 --> 01:20:09.716
+There is a Cortex agent-
+
+1418
+01:20:10.196 --> 01:20:10.206
+Mm-hmm
+
+1419
+01:20:10.216 --> 01:20:11.516
+... which is built by the Snowflake.
+
+1420
+01:20:12.076 --> 01:20:12.226
+Mm-hmm.
+
+1421
+01:20:12.576 --> 01:20:16.296
+So my question is, what is the to build
+
+1422
+01:20:16.316 --> 01:20:19.306
+another agent? So how it will be implement?
+
+1423
+01:20:19.336 --> 01:20:19.346
+So-
+
+1424
+01:20:19.356 --> 01:20:23.256
+First thing, will you stay in the company for lifetime?
+
+1425
+01:20:25.376 --> 01:20:25.536
+No.
+
+1426
+01:20:26.456 --> 01:20:27.016
+Answer me.
+
+1427
+01:20:28.856 --> 01:20:31.946
+Are you looking for more package or you stay in the company for same time?
+
+1428
+01:20:32.056 --> 01:20:35.786
+Let me tell you. If I unmute every experience, do
+
+1429
+01:20:35.896 --> 01:20:39.096
+not ask me for your specific company
+
+1430
+01:20:39.196 --> 01:20:42.406
+project. Let me tell you, the company has developed.
+
+1431
+01:20:42.956 --> 01:20:46.476
+Now you are using tool, that tool already inbuilt agent.
+
+1432
+01:20:46.716 --> 01:20:50.616
+Got my point? So other company, other tool agent can build.
+
+1433
+01:20:50.776 --> 01:20:54.556
+My question, how do you build agent by scratch with Python?
+
+1434
+01:20:55.696 --> 01:20:59.016
+All learning not integrate to your company only.
+
+1435
+01:20:59.776 --> 01:21:03.536
+If you see the job descriptions, I'll go back to
+
+1436
+01:21:03.576 --> 01:21:04.556
+my LinkedIn,
+
+1437
+01:21:05.376 --> 01:21:07.476
+and I think I'll go back to LinkedIn.
+
+1438
+01:21:07.816 --> 01:21:09.496
+Mallikarjun understood what I'm talking?
+
+1439
+01:21:10.096 --> 01:21:14.076
+If I go back to the JD, just go to the JD, read
+
+1440
+01:21:14.136 --> 01:21:17.696
+the JD. Whatever JD of agentic
+
+1441
+01:21:17.816 --> 01:21:21.636
+AI developer, okay? So when you have agentic
+
+1442
+01:21:21.756 --> 01:21:25.556
+AI developer, if you see any JD, look at the JD.
+
+1443
+01:21:26.096 --> 01:21:29.936
+So in JD, whatever you have, those technologies I will
+
+1444
+01:21:30.036 --> 01:21:33.796
+cover. By using help of these technology, did you see this
+
+1445
+01:21:33.896 --> 01:21:37.736
+LLM and agentic systems work closely on product manager, data
+
+1446
+01:21:37.796 --> 01:21:41.096
+scientist, even though agentic AI developer work with data scientist or
+
+1447
+01:21:41.196 --> 01:21:45.136
+not? Got my point. How to benchmark, how to evaluate
+
+1448
+01:21:45.196 --> 01:21:49.065
+model performance, what is feedback loops,
+
+1449
+01:21:49.236 --> 01:21:52.896
+what is RLHF, multifunction. So you build
+
+1450
+01:21:52.936 --> 01:21:53.276
+this.
+
+1451
+01:21:54.576 --> 01:21:55.356
+Got my point?
+
+1452
+01:21:56.336 --> 01:21:56.476
+Yeah.
+
+1453
+01:21:56.876 --> 01:21:58.976
+So you will get these technology,
+
+1454
+01:21:59.876 --> 01:22:03.716
+LangGraph, CreAI, AutoGen. Did you see these guys, this JD or not,
+
+1455
+01:22:03.756 --> 01:22:07.396
+PyTorch? If you doesn't know this, even though agentic AI
+
+1456
+01:22:07.436 --> 01:22:09.456
+developer, they will ask these question to you.
+
+1457
+01:22:10.056 --> 01:22:13.836
+The interview such a way, if you go for agent, they will ask ML.
+
+1458
+01:22:13.996 --> 01:22:15.696
+If you know ML, they will ask agent.
+
+1459
+01:22:16.516 --> 01:22:19.356
+So there's a no harm if you learn all the subject. Agree with me?
+
+1460
+01:22:20.466 --> 01:22:20.466
+Yes.
+
+1461
+01:22:20.496 --> 01:22:21.636
+Okay. Thank you.
+
+1462
+01:22:24.596 --> 01:22:24.856
+Yes.
+
+1463
+01:22:24.936 --> 01:22:25.096
+Hey.
+
+1464
+01:22:26.236 --> 01:22:27.016
+Can I speak? Hello?
+
+1465
+01:22:27.656 --> 01:22:29.256
+Please, Jagnesh, go ahead. How may I help you?
+
+1466
+01:22:29.336 --> 01:22:31.626
+Hi. Hi, Prakak. Good morning.
+
+1467
+01:22:31.626 --> 01:22:32.436
+Yes, please. Good morning.
+
+1468
+01:22:32.496 --> 01:22:33.276
+How are you, man?
+
+1469
+01:22:33.616 --> 01:22:34.596
+I'm good. Tell me.
+
+1470
+01:22:35.256 --> 01:22:38.496
+Prakak, actually, I have 17 years some experience in IT industry.
+
+1471
+01:22:38.886 --> 01:22:38.886
+Super.
+
+1472
+01:22:38.896 --> 01:22:40.516
+Basically, I'm from Oracle background.
+
+1473
+01:22:40.956 --> 01:22:41.776
+Mm-hmm.
+
+1474
+01:22:43.356 --> 01:22:44.976
+So is it a right decision to switch at
+
+1475
+01:22:45.896 --> 01:22:49.366
+this time to agentic AI? That is my question.
+
+1476
+01:22:49.876 --> 01:22:49.956
+Mm-hmm.
+
+1477
+01:22:51.246 --> 01:22:54.476
+And follow Sama's couple of questions will ask you, can please help clarify me?
+
+1478
+01:22:55.196 --> 01:22:55.496
+And over.
+
+1479
+01:22:55.536 --> 01:22:55.876
+Thank you.
+
+1480
+01:22:57.136 --> 01:23:00.456
+And now my question to you is, do you know Oracle recently lay
+
+1481
+01:23:00.496 --> 01:23:01.476
+off?
+
+1482
+01:23:02.376 --> 01:23:04.336
+Yeah, laid off. But I am-
+
+1483
+01:23:04.616 --> 01:23:08.546
+No, I just wanted to know just as expertise, I'm
+
+1484
+01:23:08.636 --> 01:23:10.686
+asking. You know why the lay-- Yeah.
+
+1485
+01:23:10.716 --> 01:23:13.366
+We cannot avoid the companies when one time-
+
+1486
+01:23:13.376 --> 01:23:13.546
+Correct
+
+1487
+01:23:13.916 --> 01:23:15.856
+... come up questions. We are in-
+
+1488
+01:23:15.936 --> 01:23:19.556
+No, the reason is, I'll tell you, the reason is more agentic AI
+
+1489
+01:23:19.656 --> 01:23:21.856
+IDEs come up. I will tell you,
+
+1490
+01:23:22.755 --> 01:23:26.286
+have you built some agents in Cursor AI or
+
+1491
+01:23:26.976 --> 01:23:30.476
+Cline or any agent you picked up here, the agent is
+
+1492
+01:23:30.496 --> 01:23:34.336
+automatically write the code. So all coding part, all
+
+1493
+01:23:34.416 --> 01:23:35.956
+developer, whoever it may be,
+
+1494
+01:23:37.276 --> 01:23:40.816
+the code part has done. But now why agents come up, the new
+
+1495
+01:23:41.136 --> 01:23:44.776
+things, the new market, and this is the best time being an
+
+1496
+01:23:44.836 --> 01:23:48.756
+expertise, the next position is architecture, and definitely being
+
+1497
+01:23:48.796 --> 01:23:51.576
+a human, we need to go for the decisions.
+
+1498
+01:23:51.986 --> 01:23:55.676
+So the answer to your question, 100% best because you
+
+1499
+01:23:55.736 --> 01:23:59.426
+have glance idea IT field, we must need to keep
+
+1500
+01:23:59.556 --> 01:24:02.676
+learning new subject. So because it is
+
+1501
+01:24:03.336 --> 01:24:06.096
+not complete. Agree with me, Mr. Jagnesh?
+
+1502
+01:24:06.136 --> 01:24:09.916
+Yeah. But I have a challenges in front of
+
+1503
+01:24:10.096 --> 01:24:10.696
+me, okay.
+
+1504
+01:24:11.326 --> 01:24:11.326
+Mm-hmm.
+
+1505
+01:24:11.356 --> 01:24:14.376
+The first challenge, let me tell you.
+
+1506
+01:24:15.076 --> 01:24:15.346
+Mm-hmm.
+
+1507
+01:24:15.416 --> 01:24:18.696
+The first challenge which I'm facing, I'm a senior technical architect,
+
+1508
+01:24:19.756 --> 01:24:21.116
+which I'm working.
+
+1509
+01:24:21.146 --> 01:24:21.226
+Mm-hmm.
+
+1510
+01:24:21.296 --> 01:24:24.656
+So after this call, after this course, if I go-
+
+1511
+01:24:24.736 --> 01:24:24.906
+Mm-hmm
+
+1512
+01:24:25.036 --> 01:24:26.236
+... I cannot put a two to three years.
+
+1513
+01:24:26.496 --> 01:24:30.416
+Definitely, I have to put the four plus or three plus, something like
+
+1514
+01:24:30.436 --> 01:24:30.536
+that.
+
+1515
+01:24:30.576 --> 01:24:30.705
+Mm-hmm.
+
+1516
+01:24:31.066 --> 01:24:34.756
+And definitely the interviewer will ask all the architect level of questions-
+
+1517
+01:24:34.776 --> 01:24:35.356
+Exactly
+
+1518
+01:24:35.776 --> 01:24:36.716
+... I have to face it.
+
+1519
+01:24:37.276 --> 01:24:37.656
+Actually-
+
+1520
+01:24:37.696 --> 01:24:39.776
+How that might come in a-
+
+1521
+01:24:40.196 --> 01:24:40.696
+I got it.
+
+1522
+01:24:40.976 --> 01:24:41.516
+Challenge. Yes.
+
+1523
+01:24:41.526 --> 01:24:45.256
+I got your question. The main, if you are 17 plus
+
+1524
+01:24:45.396 --> 01:24:48.596
+year, the interviewer ask system design.
+
+1525
+01:24:48.896 --> 01:24:50.156
+You guys missed this part.
+
+1526
+01:24:51.196 --> 01:24:55.156
+Okay, Jagnesh. They won't ask architecture, agentic AI, you will explain
+
+1527
+01:24:55.236 --> 01:24:59.216
+easily. First thing, system design, something you
+
+1528
+01:24:59.336 --> 01:25:00.276
+have to focus on it.
+
+1529
+01:25:01.076 --> 01:25:04.586
+So one thing, what system design? I will tell you the
+
+1530
+01:25:04.716 --> 01:25:08.376
+system design and DSA, you have to focus on it, first thing.
+
+1531
+01:25:08.936 --> 01:25:12.556
+Nowadays, what exactly happened for 17, 18
+
+1532
+01:25:12.636 --> 01:25:16.476
+years, anyway, see, these agentic AI architecture like
+
+1533
+01:25:16.516 --> 01:25:20.408
+Claude code, ChatGPT, it's easy, man You
+
+1534
+01:25:20.448 --> 01:25:23.568
+can easily explain them because I will teach you, you can explain them.
+
+1535
+01:25:24.028 --> 01:25:28.008
+But something system design and DSA, you have to handle those things.
+
+1536
+01:25:28.528 --> 01:25:29.248
+Got my point?
+
+1537
+01:25:29.768 --> 01:25:33.048
+Yeah. People will ask you that because data structures, algorithms-
+
+1538
+01:25:33.308 --> 01:25:34.558
+That's what I'm saying. Mm-hmm
+
+1539
+01:25:34.888 --> 01:25:37.848
+... that's why. That might be a challenge because I'm not a-
+
+1540
+01:25:38.108 --> 01:25:38.378
+I know
+
+1541
+01:25:38.408 --> 01:25:38.788
+... aggressive
+
+1542
+01:25:40.008 --> 01:25:40.988
+coder.
+
+1543
+01:25:41.008 --> 01:25:41.858
+Mm-hmm.
+
+1544
+01:25:42.308 --> 01:25:44.078
+So I'm not a bad coder, but I don't know-
+
+1545
+01:25:44.108 --> 01:25:44.628
+No, but see-
+
+1546
+01:25:45.088 --> 01:25:47.368
+I'm a basically functional guy, okay?
+
+1547
+01:25:47.448 --> 01:25:49.138
+I know. So that's why-
+
+1548
+01:25:49.258 --> 01:25:49.258
+So-
+
+1549
+01:25:49.258 --> 01:25:52.818
+... what I'm saying, if you learn this program, what happened,
+
+1550
+01:25:53.668 --> 01:25:57.308
+you got exposure on Python and you got exposure on ML model
+
+1551
+01:25:57.368 --> 01:26:01.088
+architectures, you got exposure of AI model, you got exposure of
+
+1552
+01:26:01.108 --> 01:26:04.508
+neural network architectures. All these things you got exposure.
+
+1553
+01:26:04.588 --> 01:26:08.148
+So when you got exposure, you got a overview, complete
+
+1554
+01:26:08.348 --> 01:26:11.968
+glance idea you will get it, which helps to build a system design as well.
+
+1555
+01:26:13.968 --> 01:26:15.428
+Understand, Mr. Agnes?
+
+1556
+01:26:16.148 --> 01:26:16.308
+Yeah.
+
+1557
+01:26:17.488 --> 01:26:19.688
+Correct. And one more question, actually.
+
+1558
+01:26:19.728 --> 01:26:19.988
+Please.
+
+1559
+01:26:21.768 --> 01:26:24.248
+In the agentic and the GenAI, I
+
+1560
+01:26:25.048 --> 01:26:26.698
+just already asked you in that. So data-
+
+1561
+01:26:26.728 --> 01:26:27.088
+No worries
+
+1562
+01:26:27.328 --> 01:26:29.458
+... science and ML, why we need to-
+
+1563
+01:26:29.638 --> 01:26:30.588
+No. ML, see-
+
+1564
+01:26:30.988 --> 01:26:31.878
+Involve that actually
+
+1565
+01:26:31.908 --> 01:26:34.218
+... I will tell you. Data is divided into two part.
+
+1566
+01:26:34.468 --> 01:26:37.888
+One is Excel data. One is Excel data where exactly
+
+1567
+01:26:37.898 --> 01:26:41.148
+used. Banking industry they use, insurance they
+
+1568
+01:26:41.228 --> 01:26:43.378
+used. These companies use Excel or not.
+
+1569
+01:26:43.908 --> 01:26:46.318
+How LLM model can introduce in Excel?
+
+1570
+01:26:47.388 --> 01:26:51.068
+So when you have Excel, when you learn Quantum also,
+
+1571
+01:26:51.328 --> 01:26:55.288
+being a 17-year experience guys, you have to focus on Quantum as well.
+
+1572
+01:26:55.808 --> 01:26:59.748
+So when you integrate the ML with Quantum, if you don't know ML, then Quantum is
+
+1573
+01:26:59.788 --> 01:27:02.808
+very hard. Then at that time also, you need to learn ML or not.
+
+1574
+01:27:03.328 --> 01:27:06.248
+So by look at it all these things, I introduce this.
+
+1575
+01:27:06.368 --> 01:27:08.388
+If you don't want to learn, don't want.
+
+1576
+01:27:08.948 --> 01:27:12.508
+Just whatever session going on on that time, skip it and attend another
+
+1577
+01:27:12.608 --> 01:27:14.528
+class. Agnes, are you clear?
+
+1578
+01:27:16.388 --> 01:27:20.328
+I will tell you because some of students, freshers, they need it
+
+1579
+01:27:21.288 --> 01:27:22.727
+to have their projects.
+
+1580
+01:27:23.448 --> 01:27:23.458
+Yes.
+
+1581
+01:27:23.468 --> 01:27:23.728
+Got it?
+
+1582
+01:27:24.148 --> 01:27:24.348
+Yeah.
+
+1583
+01:27:25.468 --> 01:27:28.048
+My concern is, yeah. So-
+
+1584
+01:27:28.768 --> 01:27:30.428
+No, are you clear? All answers-
+
+1585
+01:27:30.447 --> 01:27:33.528
+Being a non-coder, so how difficult to-- It's
+
+1586
+01:27:34.388 --> 01:27:34.908
+definitely-
+
+1587
+01:27:34.978 --> 01:27:34.978
+No
+
+1588
+01:27:34.978 --> 01:27:38.058
+... a big challenge for me for data science and ML, those things.
+
+1589
+01:27:38.488 --> 01:27:38.558
+No, but see-
+
+1590
+01:27:38.558 --> 01:27:39.088
+Coding part
+
+1591
+01:27:39.128 --> 01:27:40.128
+... being
+
+1592
+01:27:40.968 --> 01:27:44.388
+a non-coder, you must have to learn coder. There is no option.
+
+1593
+01:27:45.108 --> 01:27:48.588
+And the code is very easy, not like Java, C, C++.
+
+1594
+01:27:48.628 --> 01:27:50.318
+Python is very easy. And I'm sure-
+
+1595
+01:27:50.348 --> 01:27:50.418
+Yeah,
+
+1596
+01:27:51.728 --> 01:27:53.498
+Python is okay, but ML and data science-
+
+1597
+01:27:53.608 --> 01:27:56.548
+ML is very easy because everything done by libraries.
+
+1598
+01:27:56.728 --> 01:27:59.828
+SKLearn does, LangChain does, TensorFlow does.
+
+1599
+01:27:59.988 --> 01:28:03.788
+The library, you use it and just we write some functions and
+
+1600
+01:28:03.868 --> 01:28:05.968
+build the code, build the project.
+
+1601
+01:28:07.208 --> 01:28:09.388
+So those are easy. Okay, Agnes? Thank you.
+
+1602
+01:28:10.248 --> 01:28:14.128
+Okay, guys. I think Shruta, unmute you, and
+
+1603
+01:28:15.168 --> 01:28:18.848
+yeah. So Srinivas and Samay, unmute you.
+
+1604
+01:28:19.668 --> 01:28:21.998
+And I think please go ahead, guys. Rest of things-
+
+1605
+01:28:22.017 --> 01:28:22.017
+Thanks
+
+1606
+01:28:22.017 --> 01:28:25.928
+... I'll talk to you tomorrow. Yeah, Vijay, please unmute you. Please go ahead.
+
+1607
+01:28:27.308 --> 01:28:28.408
+Yeah, hi Prakhar. Good morning.
+
+1608
+01:28:28.848 --> 01:28:29.328
+Good morning.
+
+1609
+01:28:30.488 --> 01:28:34.268
+Yeah. First of all, very thank you so much for your providing
+
+1610
+01:28:34.308 --> 01:28:37.778
+syllabus. Really, just whatever you are assured-
+
+1611
+01:28:38.268 --> 01:28:38.508
+Mm-hmm
+
+1612
+01:28:38.517 --> 01:28:42.448
+... very excellent, all the things, AI gen and all the stuff that
+
+1613
+01:28:42.488 --> 01:28:43.048
+will suit
+
+1614
+01:28:44.948 --> 01:28:48.188
+year one experience to 20 years experience guide.
+
+1615
+01:28:48.648 --> 01:28:48.888
+Exactly.
+
+1616
+01:28:48.928 --> 01:28:51.328
+Because whoever want, they can utilize.
+
+1617
+01:28:51.368 --> 01:28:51.618
+They can-
+
+1618
+01:28:51.748 --> 01:28:52.028
+Correct.
+
+1619
+01:28:52.528 --> 01:28:56.408
+That 10-year guy no need to ask the question, b******t question, because
+
+1620
+01:28:56.448 --> 01:28:57.338
+they know how to present-
+
+1621
+01:28:57.408 --> 01:28:57.708
+Exactly, man
+
+1622
+01:28:57.968 --> 01:29:00.748
+... what to need, what to present there only.
+
+1623
+01:29:01.168 --> 01:29:04.428
+Because they know, right answers, he is used to work, what are the questions.
+
+1624
+01:29:04.668 --> 01:29:06.718
+100% right. At least someone can understand.
+
+1625
+01:29:06.768 --> 01:29:10.648
+I'm really frankly telling you, you are covering zero experience to 20
+
+1626
+01:29:10.658 --> 01:29:11.648
+years experience guide.
+
+1627
+01:29:11.688 --> 01:29:12.008
+Correct.
+
+1628
+01:29:12.348 --> 01:29:12.608
+So
+
+1629
+01:29:13.408 --> 01:29:17.248
+these days, this is required, really required because
+
+1630
+01:29:17.328 --> 01:29:20.848
+you are covering very advanced low level to very advanced
+
+1631
+01:29:20.928 --> 01:29:21.328
+level.
+
+1632
+01:29:22.548 --> 01:29:23.828
+That's what, Samay-
+
+1633
+01:29:23.838 --> 01:29:25.428
+Yesterday I see next technology-
+
+1634
+01:29:25.828 --> 01:29:26.088
+Mm-hmm
+
+1635
+01:29:26.098 --> 01:29:29.108
+... but this level did not cover. That's why I did not join.
+
+1636
+01:29:29.188 --> 01:29:30.988
+I'm like, keep on seeing what is there.
+
+1637
+01:29:31.028 --> 01:29:32.148
+Mm-hmm.
+
+1638
+01:29:32.788 --> 01:29:35.328
+After so many, like two, three months seeing the course-
+
+1639
+01:29:35.827 --> 01:29:35.837
+Mm-hmm
+
+1640
+01:29:35.837 --> 01:29:38.438
+... this really you are coming with very advanced.
+
+1641
+01:29:38.788 --> 01:29:42.528
+But really if you go in detail and cover and explain very
+
+1642
+01:29:42.608 --> 01:29:45.068
+clearly, we are very thankful to you really.
+
+1643
+01:29:45.308 --> 01:29:48.748
+But if you are only reading only headlines and covering and PPT
+
+1644
+01:29:48.808 --> 01:29:50.288
+covering, really that is not-
+
+1645
+01:29:50.338 --> 01:29:50.888
+It's not make sense.
+
+1646
+01:29:51.788 --> 01:29:54.308
+Yeah. See what happened, thank you that you understand.
+
+1647
+01:29:54.348 --> 01:29:57.198
+See, when a experienced guys work 15 years,
+
+1648
+01:29:57.808 --> 01:30:00.728
+surprise how these questions ask. Am I correct or not?
+
+1649
+01:30:00.888 --> 01:30:01.608
+Yes.
+
+1650
+01:30:02.028 --> 01:30:05.888
+Simple question. If I don't answer now,
+
+1651
+01:30:06.268 --> 01:30:09.148
+and if I answer little rude, then they feel bad.
+
+1652
+01:30:09.648 --> 01:30:11.088
+But still, I have to-
+
+1653
+01:30:12.148 --> 01:30:13.788
+Still, you have more patience. You have very more patience, yeah.
+
+1654
+01:30:14.768 --> 01:30:18.368
+So that's what I'm saying. See, why I have to make slides PPT,
+
+1655
+01:30:18.468 --> 01:30:22.228
+because it's at just two day we covered. We are at third day.
+
+1656
+01:30:22.768 --> 01:30:26.628
+So one by one, I am also waiting to finish the presentation, and then
+
+1657
+01:30:26.688 --> 01:30:30.648
+I'll get into the more topic when we have Python, how to build code,
+
+1658
+01:30:30.728 --> 01:30:33.408
+how to build simple function, how to build loops.
+
+1659
+01:30:33.848 --> 01:30:37.428
+Everything's I covered in depth. See, if experienced guys, they have own project,
+
+1660
+01:30:37.818 --> 01:30:41.068
+they need to integrate. That's what I said. I gave my number as well.
+
+1661
+01:30:41.688 --> 01:30:43.248
+Thank you. I hope you understood.
+
+1662
+01:30:43.298 --> 01:30:46.068
+Prakhar, we are giving training, so the presentation is their side.
+
+1663
+01:30:46.148 --> 01:30:49.408
+You're experienced guy, you need to present yourself, not you, right?
+
+1664
+01:30:49.438 --> 01:30:49.438
+Correct.
+
+1665
+01:30:49.468 --> 01:30:53.408
+So whatever they are asking, whatever you are picking from here, you need to pick
+
+1666
+01:30:53.448 --> 01:30:55.148
+from here, there you need to present.
+
+1667
+01:30:55.498 --> 01:30:55.578
+Perfect.
+
+1668
+01:30:55.578 --> 01:30:56.628
+But you will be selected.
+
+1669
+01:30:57.228 --> 01:30:57.338
+Exactly. True.
+
+1670
+01:30:57.468 --> 01:30:57.838
+But here some thing-
+
+1671
+01:30:57.868 --> 01:30:58.748
+Absolutely true
+
+1672
+01:30:58.768 --> 01:31:01.847
+... some addition is required, yeah, sorry. Some addition is required, yeah.
+
+1673
+01:31:01.928 --> 01:31:04.448
+So you cover everything. I'm ready to join this one.
+
+1674
+01:31:04.488 --> 01:31:06.928
+I'm actually here waiting for to continue course.
+
+1675
+01:31:07.188 --> 01:31:07.398
+Okay, no worries.
+
+1676
+01:31:07.398 --> 01:31:10.688
+So the one is AI governance and some more like
+
+1677
+01:31:11.648 --> 01:31:15.308
+cyber security. In the future, any thought to be added
+
+1678
+01:31:15.388 --> 01:31:16.638
+these two topics in this course?
+
+1679
+01:31:16.688 --> 01:31:18.078
+No, cyber security,
+
+1680
+01:31:19.368 --> 01:31:20.068
+it is a tool.
+
+1681
+01:31:20.488 --> 01:31:20.708
+Okay.
+
+1682
+01:31:21.408 --> 01:31:25.396
+Cyber security is a tool. So we don't use that So
+
+1683
+01:31:25.596 --> 01:31:27.576
+that is it. But AI governance-
+
+1684
+01:31:27.696 --> 01:31:28.396
+I do, yeah
+
+1685
+01:31:28.576 --> 01:31:32.096
+... I will guide you on that part. AI governance, how it work.
+
+1686
+01:31:33.176 --> 01:31:35.546
+Yeah. Because as a fresher, like a recorder-
+
+1687
+01:31:35.616 --> 01:31:37.366
+I got it. I got it
+
+1688
+01:31:37.396 --> 01:31:40.256
+... you can speak out AI governance, you already explained.
+
+1689
+01:31:40.396 --> 01:31:40.526
+Mm-hmm.
+
+1690
+01:31:40.576 --> 01:31:42.636
+But that principles and all the stuff required, right?
+
+1691
+01:31:42.736 --> 01:31:43.116
+At least-
+
+1692
+01:31:43.196 --> 01:31:45.756
+Yeah. I will guide you how the AI governance.
+
+1693
+01:31:45.826 --> 01:31:48.306
+AI governance all about
+
+1694
+01:31:49.176 --> 01:31:52.326
+the practical part. When you export six months, automatically you
+
+1695
+01:31:52.356 --> 01:31:54.856
+understood the AI governance, what to speak.
+
+1696
+01:31:56.156 --> 01:31:59.166
+Yeah, really, I thank you very much for your attention on this.
+
+1697
+01:31:59.716 --> 01:32:00.876
+Okay. Thank you so much.
+
+1698
+01:32:01.896 --> 01:32:03.006
+Okay. So,
+
+1699
+01:32:04.896 --> 01:32:07.416
+Vijay, I'm sorry, man, you've been waited yesterday also.
+
+1700
+01:32:08.256 --> 01:32:08.466
+Morning.
+
+1701
+01:32:08.556 --> 01:32:12.276
+And yes, please continue, last person, and then we'll talk about that.
+
+1702
+01:32:12.356 --> 01:32:13.596
+Yeah. Today, I'm-
+
+1703
+01:32:14.256 --> 01:32:15.616
+I cannot hear you. Please.
+
+1704
+01:32:16.096 --> 01:32:16.316
+Hello?
+
+1705
+01:32:17.016 --> 01:32:18.236
+Please go ahead. Yeah.
+
+1706
+01:32:19.196 --> 01:32:22.336
+Actually, I am a basis person, SAP basis person.
+
+1707
+01:32:22.976 --> 01:32:23.176
+Mm-hmm.
+
+1708
+01:32:23.256 --> 01:32:27.016
+I'm working around 18 years. So my
+
+1709
+01:32:27.096 --> 01:32:30.576
+question is related to this course or Agentic AI.
+
+1710
+01:32:30.636 --> 01:32:32.536
+Can you speak louder? I'm sorry.
+
+1711
+01:32:32.576 --> 01:32:32.816
+Hello?
+
+1712
+01:32:33.376 --> 01:32:33.636
+Yeah.
+
+1713
+01:32:34.316 --> 01:32:36.116
+Yeah. I'm saying I'm the basis person.
+
+1714
+01:32:36.506 --> 01:32:36.596
+Mm-hmm.
+
+1715
+01:32:36.656 --> 01:32:39.006
+I don't have experience or knowledge, I can say.
+
+1716
+01:32:39.076 --> 01:32:41.956
+No problem. Nothing else. Happily... Mm.
+
+1717
+01:32:42.596 --> 01:32:44.876
+How this will be helpful for me-
+
+1718
+01:32:45.436 --> 01:32:45.686
+Mm-hmm
+
+1719
+01:32:45.686 --> 01:32:48.916
+... as a SAP person or to change that career?
+
+1720
+01:32:50.136 --> 01:32:51.056
+That's my question.
+
+1721
+01:32:51.776 --> 01:32:55.736
+No, easily because SAP, you cannot, if you mention
+
+1722
+01:32:55.896 --> 01:32:58.616
+SAP project in resume, you get SAP calls only.
+
+1723
+01:32:59.816 --> 01:33:03.756
+You build some Agentic AI project, that project you have to mention in your resume,
+
+1724
+01:33:04.336 --> 01:33:07.416
+and in your project when you mentioned-- I mean,
+
+1725
+01:33:07.616 --> 01:33:11.536
+project in your resume, you can integrate these
+
+1726
+01:33:11.596 --> 01:33:15.296
+projects to the client which you're working, and that's the way you can migrate.
+
+1727
+01:33:15.976 --> 01:33:18.516
+Very simple how to integrate when you start at SAP.
+
+1728
+01:33:19.656 --> 01:33:22.916
+Mention minimum two to three projects on Agent and you can apply.
+
+1729
+01:33:23.376 --> 01:33:23.916
+Clear now?
+
+1730
+01:33:24.696 --> 01:33:24.876
+Yeah.
+
+1731
+01:33:25.656 --> 01:33:26.436
+Okay. Thank you.
+
+1732
+01:33:27.296 --> 01:33:29.636
+Okay, guys, that's it for today. And I think-
+
+1733
+01:33:29.836 --> 01:33:30.246
+Thank you, sir.
+
+1734
+01:33:30.246 --> 01:33:30.776
+Yeah, please,
+
+1735
+01:33:31.596 --> 01:33:31.876
+go ahead.
+
+1736
+01:33:32.636 --> 01:33:34.096
+Good morning, sir.
+
+1737
+01:33:34.125 --> 01:33:34.125
+Good morning.
+
+1738
+01:33:34.125 --> 01:33:34.125
+Good morning.
+
+1739
+01:33:34.136 --> 01:33:35.416
+Please go ahead, last person.
+
+1740
+01:33:35.696 --> 01:33:35.816
+Yes.
+
+1741
+01:33:35.835 --> 01:33:37.685
+And tomorrow-- If I-- One second, Vijay.
+
+1742
+01:33:38.236 --> 01:33:42.226
+If anyone missed, guys, I'm sorry. Sorry, Rachit, one second.
+
+1743
+01:33:42.836 --> 01:33:45.936
+If I'll miss anyone's topic, I will answer you.
+
+1744
+01:33:46.296 --> 01:33:50.276
+Sutam, I think I'll unmute you, and then rest of the questions I'll take
+
+1745
+01:33:50.316 --> 01:33:52.646
+tomorrow. Sorry, guys. Usman, I'm sorry.
+
+1746
+01:33:53.176 --> 01:33:54.685
+If you don't mind, can I take tomorrow?
+
+1747
+01:33:56.576 --> 01:33:59.076
+Okay, please go ahead. Please go ahead, Rachit.
+
+1748
+01:33:59.116 --> 01:34:01.116
+Thank you, sir. Thank you for allowing me.
+
+1749
+01:34:01.596 --> 01:34:01.606
+Mm-hmm.
+
+1750
+01:34:01.716 --> 01:34:03.536
+It was nice hearing you, sir.
+
+1751
+01:34:03.566 --> 01:34:03.566
+Thank you.
+
+1752
+01:34:03.816 --> 01:34:07.796
+And so my question is only that I have an experience of
+
+1753
+01:34:07.816 --> 01:34:09.296
+two years in technical support.
+
+1754
+01:34:09.636 --> 01:34:09.876
+Mm-hmm.
+
+1755
+01:34:10.396 --> 01:34:11.006
+And I
+
+1756
+01:34:12.016 --> 01:34:15.886
+want to move into Quantum only. I have been following Quantum since-
+
+1757
+01:34:15.916 --> 01:34:19.316
+Quantum? Okay. You already focused on Quantum.
+
+1758
+01:34:19.816 --> 01:34:23.096
+Yes, I was focused. I was taking classes from IISc.
+
+1759
+01:34:23.636 --> 01:34:23.745
+Mm-hmm.
+
+1760
+01:34:24.516 --> 01:34:28.296
+But I was not able to focus over there because they were going far
+
+1761
+01:34:28.376 --> 01:34:30.916
+above of the basic concepts. So I-
+
+1762
+01:34:30.956 --> 01:34:34.436
+No, man. See, Quantum, let me tell you,
+
+1763
+01:34:34.836 --> 01:34:36.076
+have you know machine learning?
+
+1764
+01:34:38.016 --> 01:34:38.736
+Yes, I-
+
+1765
+01:34:38.745 --> 01:34:42.216
+So if you already learn Quantum computing, why you don't apply jobs then?
+
+1766
+01:34:43.196 --> 01:34:45.716
+No, I haven't learned, sir. I was trying to learn.
+
+1767
+01:34:45.876 --> 01:34:46.606
+So before you-
+
+1768
+01:34:46.606 --> 01:34:46.606
+I was trying to learn
+
+1769
+01:34:46.606 --> 01:34:50.376
+... Let me tell you. Before you trying to learn right now-
+
+1770
+01:34:50.416 --> 01:34:50.685
+Yes, sir
+
+1771
+01:34:50.685 --> 01:34:53.336
+... see, you are hungry. Okay? You are hungry.
+
+1772
+01:34:53.416 --> 01:34:55.816
+You are telling, "I eat only veg biryani."
+
+1773
+01:34:56.776 --> 01:35:00.356
+Got my point? You are hungry. You are saying you eat only veg
+
+1774
+01:35:00.396 --> 01:35:04.336
+biryani, or else I never eat. If you don't eat, you will die. Got my point?
+
+1775
+01:35:04.986 --> 01:35:05.016
+Got it.
+
+1776
+01:35:05.056 --> 01:35:08.736
+I mean to say, you learn AI, then jump into Quantum.
+
+1777
+01:35:09.276 --> 01:35:09.996
+Because Quantum-
+
+1778
+01:35:10.036 --> 01:35:10.046
+Okay
+
+1779
+01:35:10.046 --> 01:35:12.116
+... when you joined and fire, then what happen?
+
+1780
+01:35:13.016 --> 01:35:15.976
+It's just introduced. Got my point?
+
+1781
+01:35:16.576 --> 01:35:16.586
+Got it. Yes, sir.
+
+1782
+01:35:16.616 --> 01:35:19.685
+So that is why. Yeah, I'm going to start Python, Vikash.
+
+1783
+01:35:19.916 --> 01:35:21.776
+One by one will start. Pretty clear?
+
+1784
+01:35:22.596 --> 01:35:22.685
+Yes, sir.
+
+1785
+01:35:22.716 --> 01:35:26.626
+Got my point? So just don't think too much. Just happily learned it. Okay?
+
+1786
+01:35:26.656 --> 01:35:29.236
+So I am from technical support background.
+
+1787
+01:35:29.316 --> 01:35:29.836
+I don't have any-
+
+1788
+01:35:29.856 --> 01:35:30.376
+No worries.
+
+1789
+01:35:31.676 --> 01:35:35.256
+Are you able to understand what is class going on?
+
+1790
+01:35:35.476 --> 01:35:35.486
+Everything, sir.
+
+1791
+01:35:35.486 --> 01:35:35.965
+How the people-
+
+1792
+01:35:36.046 --> 01:35:36.106
+Yes, sir
+
+1793
+01:35:36.256 --> 01:35:37.266
+... are explaining. How-
+
+1794
+01:35:37.616 --> 01:35:37.846
+Yes, sir
+
+1795
+01:35:37.846 --> 01:35:41.336
+... do you see the good thing for fresher, how experienced guys are thinking?
+
+1796
+01:35:41.476 --> 01:35:43.996
+That is the first thing. That is what unmute you.
+
+1797
+01:35:44.436 --> 01:35:44.986
+Yes, sir.
+
+1798
+01:35:44.986 --> 01:35:48.936
+So how a 20 years guy think, how 10 years guy think, how 5 years guy
+
+1799
+01:35:48.976 --> 01:35:52.656
+think, how 2 year guy think. Based on that, you can be strong.
+
+1800
+01:35:53.176 --> 01:35:54.696
+And when a guy think and
+
+1801
+01:35:55.616 --> 01:35:58.616
+experienced guys think like fresher, you'll be very confident.
+
+1802
+01:35:59.016 --> 01:35:59.636
+Agree with me?
+
+1803
+01:36:00.076 --> 01:36:00.266
+Yes, sir.
+
+1804
+01:36:00.266 --> 01:36:03.216
+So this is very good, so no worries about that.
+
+1805
+01:36:03.976 --> 01:36:04.346
+I do know.
+
+1806
+01:36:04.496 --> 01:36:04.506
+Yes, sir.
+
+1807
+01:36:04.506 --> 01:36:07.016
+I will teach you, Rohit. No worries, I will teach you.
+
+1808
+01:36:07.376 --> 01:36:07.696
+Okay.
+
+1809
+01:36:07.736 --> 01:36:08.866
+Yes, Vikash, I will start soon.
+
+1810
+01:36:08.896 --> 01:36:11.616
+It will be easy for me to jump into AI, sir.
+
+1811
+01:36:11.956 --> 01:36:13.156
+Exactly, yes.
+
+1812
+01:36:13.616 --> 01:36:14.306
+Thank you, sir.
+
+1813
+01:36:14.336 --> 01:36:14.576
+Okay.
+
+1814
+01:36:15.156 --> 01:36:16.546
+Sutam this side.
+
+1815
+01:36:16.936 --> 01:36:18.516
+Please who's this?
+
+1816
+01:36:18.526 --> 01:36:18.526
+Hello.
+
+1817
+01:36:18.536 --> 01:36:18.666
+Please.
+
+1818
+01:36:18.736 --> 01:36:20.336
+Sutam this side, sir. Yeah.
+
+1819
+01:36:20.836 --> 01:36:21.466
+Please go ahead. Go ahead.
+
+1820
+01:36:21.476 --> 01:36:21.696
+Hello.
+
+1821
+01:36:22.136 --> 01:36:22.266
+Sutam, please go ahead.
+
+1822
+01:36:22.266 --> 01:36:25.996
+Yeah. So simple question. Yeah. So definitely we
+
+1823
+01:36:26.036 --> 01:36:29.616
+have full faith on you, like you will be definitely teaching us really in a great
+
+1824
+01:36:29.716 --> 01:36:33.556
+manner. Just the simple doubt, how our doubts would get clear on a
+
+1825
+01:36:33.576 --> 01:36:37.416
+daily basis? We would be practicing all the things like on a homework basis?
+
+1826
+01:36:37.646 --> 01:36:41.016
+No. Do you know the first demo people ask a question.
+
+1827
+01:36:41.256 --> 01:36:45.196
+When I start training code, when I ask you, "Have you built?" Someone
+
+1828
+01:36:45.296 --> 01:36:49.176
+build and someone-- Automatically all the doubts, every day last 10
+
+1829
+01:36:49.216 --> 01:36:51.136
+minutes we're given for a question.
+
+1830
+01:36:51.236 --> 01:36:53.576
+Every day last, not middle.
+
+1831
+01:36:54.346 --> 01:36:54.346
+Okay.
+
+1832
+01:36:54.376 --> 01:36:54.855
+Got my point?
+
+1833
+01:36:54.916 --> 01:36:56.026
+Okay. Cool.
+
+1834
+01:36:56.036 --> 01:36:56.316
+Thank you.
+
+1835
+01:36:56.356 --> 01:37:00.146
+Okay. So on a daily basis, if still those have not been
+
+1836
+01:37:00.216 --> 01:37:01.226
+clear, then how-
+
+1837
+01:37:01.496 --> 01:37:04.716
+If the codes are not clear, I will share you my mentor link.
+
+1838
+01:37:04.756 --> 01:37:05.536
+You can connect them.
+
+1839
+01:37:06.616 --> 01:37:07.486
+Okay. Got it.
+
+1840
+01:37:07.516 --> 01:37:07.876
+Got it?
+
+1841
+01:37:07.916 --> 01:37:08.116
+Yeah.
+
+1842
+01:37:08.156 --> 01:37:08.556
+And you can-
+
+1843
+01:37:08.676 --> 01:37:08.866
+Yes, sir
+
+1844
+01:37:09.096 --> 01:37:11.486
+... post your questions in the Google Classroom.
+
+1845
+01:37:11.976 --> 01:37:13.136
+I can take it immediately.
+
+1846
+01:37:14.196 --> 01:37:14.656
+Okay?
+
+1847
+01:37:14.696 --> 01:37:15.556
+Oh, okay. Yeah.
+
+1848
+01:37:15.936 --> 01:37:15.946
+Okay.
+
+1849
+01:37:15.976 --> 01:37:17.176
+That works. Thanks.
+
+1850
+01:37:17.856 --> 01:37:18.246
+Usman, please go ahead.
+
+1851
+01:37:18.256 --> 01:37:19.495
+Sir, this is Usman.
+
+1852
+01:37:19.536 --> 01:37:20.096
+Yes, please.
+
+1853
+01:37:20.136 --> 01:37:22.046
+So I'll not take much time, but yeah.
+
+1854
+01:37:22.066 --> 01:37:23.016
+No, that's okay.
+
+1855
+01:37:23.526 --> 01:37:25.796
+So I work into automation testing, okay?
+
+1856
+01:37:25.956 --> 01:37:26.016
+Yes.
+
+1857
+01:37:26.056 --> 01:37:28.656
+I use Playwright and Playmeter. So my intention-
+
+1858
+01:37:28.776 --> 01:37:31.596
+I think Playwright is a new tool, right? It is more demand now.
+
+1859
+01:37:32.096 --> 01:37:32.105
+Correct.
+
+1860
+01:37:32.136 --> 01:37:32.316
+Yeah.
+
+1861
+01:37:32.496 --> 01:37:32.776
+Correct.
+
+1862
+01:37:33.576 --> 01:37:37.276
+So my intention is, I want to build an agents which can
+
+1863
+01:37:37.436 --> 01:37:38.216
+integrate data,
+
+1864
+01:37:39.516 --> 01:37:41.156
+Playwright, automated script-
+
+1865
+01:37:41.216 --> 01:37:41.826
+Mm-hmm
+
+1866
+01:37:41.826 --> 01:37:44.216
+... execute it, and trace it and-
+
+1867
+01:37:44.516 --> 01:37:44.916
+Perfect
+
+1868
+01:37:44.936 --> 01:37:46.236
+... prepare report. So
+
+1869
+01:37:47.116 --> 01:37:49.796
+after this course, will I be in a position to-
+
+1870
+01:37:49.896 --> 01:37:50.856
+Yes
+
+1871
+01:37:51.496 --> 01:37:52.526
+... do automate those kind of stuff?
+
+1872
+01:37:53.156 --> 01:37:55.676
+100%. 100% you can build it.
+
+1873
+01:37:56.776 --> 01:37:59.756
+But you need to take some time to go for Agent classes.
+
+1874
+01:37:59.856 --> 01:38:03.236
+We start from basic things, we'll finish, and then go back to the Agent.
+
+1875
+01:38:03.756 --> 01:38:03.996
+Clear?
+
+1876
+01:38:04.156 --> 01:38:06.216
+Got you. Yeah. Got you. Yeah. Perfect.
+
+1877
+01:38:06.266 --> 01:38:06.266
+Okay.
+
+1878
+01:38:06.296 --> 01:38:07.926
+So I just want to understand that, whether I can build-
+
+1879
+01:38:07.976 --> 01:38:08.676
+No, perfect
+
+1880
+01:38:08.756 --> 01:38:09.496
+... Agent or not.
+
+1881
+01:38:09.916 --> 01:38:10.086
+So if-
+
+1882
+01:38:10.096 --> 01:38:11.016
+Perfect, sir. Thank you
+
+1883
+01:38:11.086 --> 01:38:11.086
+...
+
+1884
+01:38:12.316 --> 01:38:16.266
+also, if you have any work is going on, and if you're stuck, you can
+
+1885
+01:38:16.296 --> 01:38:19.906
+message me. I'll give the link. I'll share you some link. You can follow that.
+
+1886
+01:38:20.556 --> 01:38:21.676
+That also works for you.
+
+1887
+01:38:21.896 --> 01:38:21.906
+Okay.
+
+1888
+01:38:21.936 --> 01:38:22.216
+Clear?
+
+1889
+01:38:23.236 --> 01:38:24.166
+Perfect. Not a problem.
+
+1890
+01:38:24.176 --> 01:38:25.136
+Okay. Thank you, team.
+
+1891
+01:38:25.416 --> 01:38:25.886
+Thank you. Bye.
+
+1892
+01:38:25.886 --> 01:38:27.476
+Thank you. So guys, thank you so much.
+
+1893
+01:38:27.576 --> 01:38:31.476
+And we'll again take questions. I'm so sorry, don't take any
+
+1894
+01:38:31.536 --> 01:38:35.286
+negative that I haven't finished some of the questions because it's
+
+1895
+01:38:35.316 --> 01:38:37.576
+time up, and maybe we'll talk about this one.
+
+1896
+01:38:38.536 --> 01:38:40.346
+No, it's Zoom only. Tomorrow,
+
+1897
+01:38:40.776 --> 01:38:44.526
+7:00. See, it be happen here, Mahesh,
+
+1898
+01:38:44.616 --> 01:38:48.056
+maybe 5 to 10 minutes, 7:40. I'm also traveling.
+
+1899
+01:38:48.136 --> 01:38:49.896
+And okay, no worries, guys.
+
+1900
+01:38:51.536 --> 01:38:53.836
+Thank you so much, and that's it for today class.
+
+1901
+01:38:53.976 --> 01:38:57.966
+Din Dayal, I will speak tomorrow. Whoever I missed to speak in
+
+1902
+01:38:57.996 --> 01:39:01.806
+today class, then I'm sure I will speak in tomorrow session.
+
+1903
+01:39:02.476 --> 01:39:06.396
+Okay? I think-- I'm sorry, guys, because it's time up.
+
+1904
+01:39:07.196 --> 01:39:10.336
+See you on tomorrow session. Goodbye. Thanks.
